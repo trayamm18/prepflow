@@ -1,136 +1,47 @@
-# PrepFlow — Modern Full-Stack Coding & Interview Preparation Suite
+# PrepFlow — Modern Full-Stack Coding & Interview Prep Platform
 
-PrepFlow is an interactive, modern platform designed for software engineers preparing for technical interviews. It provides a coding workspace, mock interview tools, streak tracking, and data-driven performance analytics.
+PrepFlow is a modern web application designed for software developers to practice coding challenges, take mock interviews, and track progress with interactive analytics.
 
----
-
-## 📽️ Demo Video
-To see the system features and user experience in action, check out the walkthrough below:
-
-<video src="demo.mp4" width="100%" autoplay loop muted controls></video>
-
-*(If you are viewing this on GitHub, the video will autoplay above. You can find the demo video file `demo.mp4` in the root of this repository.)*
+<video src="https://github.com/trayamm18/prepflow/raw/main/demo.mp4" width="100%" autoplay loop muted controls></video>
 
 ---
 
-## 🌟 Key Features
+## 🚀 Key Features
+*   **Coding Playground**: Dual-pane workspace with a syntax-highlighted coding editor and sample input/output test cases.
+*   **Streak Tracker**: GitHub-style activity contribution grid logging user progress and streak records.
+*   **Mock Interviews**: Integrated assessment simulator with real-time scoring and history.
+*   **Performance Analytics**: Dynamic dashboard showing statistics categorized by difficulty and topic.
+*   **Authentication & Themes**: Secure user authentication with responsive light and dark mode toggles.
 
-*   **GitHub-Style Contribution Heatmap**: Visual daily activity tracker that logs user submissions and tracks continuous coding streaks.
-*   **Dual-Pane Coding Playground**: An interactive workspace containing problem descriptions, constraints, and sample I/O on the left, paired with a syntax-highlighted code editor on the right.
-*   **Mock Interview Simulator**: Integrated assessments to test algorithmic knowledge, track timing, score results, and record performance history.
-*   **Progress Analytics**: Visual charts breaking down user statistics by topic, difficulty level (Easy/Medium/Hard), and problem categories.
-*   **Persistence & Profiles**: Complete user authentication, dashboard summaries, badges, profile custom settings, and dynamic light/dark mode toggling.
+## 🛠️ Tech Stack
+*   **Frontend**: React (TypeScript, Vite, Context API, CSS Grid/Flexbox)
+*   **Backend**: Node.js, Express, TypeScript, Prisma ORM, JWT Authentication
+*   **Database**: PostgreSQL
 
----
+## ⚙️ Quick Start
 
-## 🛠️ Technology Stack
-
-### **Frontend**
-*   **React.js 18** (TypeScript, Vite)
-*   **Context API** for state management and theme configurations
-*   **Vanilla CSS3** for clean layouts, responsive grids, and transitions
-*   **Lucide React** for modern iconography
-
-### **Backend & Database**
-*   **Node.js & Express** (TypeScript)
-*   **PostgreSQL** for relational data persistence
-*   **Prisma ORM** for schema definition, migrations, and database queries
-*   **JWT & bcryptjs** for secure authentication and token refreshment
-
----
-
-## 📂 Project Directory Structure
-
-```text
-prepflow/
-├── backend/
-│   ├── prisma/             # Prisma Schema, Migrations, and Seeds
-│   ├── src/
-│   │   ├── controllers/    # API Logic Handlers
-│   │   ├── routes/         # Express Route Configurations
-│   │   ├── middlewares/    # Auth Token Validation Middlewares
-│   │   └── app.ts          # Server Entrypoint
-│   ├── tsconfig.json
-│   └── package.json
-├── frontend/
-│   ├── src/
-│   │   ├── components/     # Heatmaps & Visual Components
-│   │   ├── layouts/        # Layout Structures (App/Auth)
-│   │   ├── pages/          # Solving Workspace, Dashboard, Sheets, Settings
-│   │   ├── services/       # Axios API integrations
-│   │   └── main.tsx        # React Application Root
-│   ├── index.html
-│   └── package.json
-└── README.md
+### 1. Backend Setup
+```bash
+cd backend
+npm install
+# Create a .env file using .env.example values
+npx prisma migrate dev --name init
+npx prisma db seed
+npm run dev
 ```
 
----
-
-## 🚀 Getting Started
-
-### 1. Prerequisites
-Ensure you have the following installed on your machine:
-*   [Node.js](https://nodejs.org/) (v16+)
-*   [PostgreSQL](https://www.postgresql.org/) (or a cloud provider like Neon)
-
----
-
-### 2. Backend Setup
-
-1.  Navigate to the backend directory:
-    ```bash
-    cd backend
-    ```
-2.  Install dependencies:
-    ```bash
-    npm install
-    ```
-3.  Configure your environment variables:
-    *   Create a `.env` file in the `backend/` folder.
-    *   Copy the values from `.env.example` and fill in your database connection string and JWT secrets.
-    ```env
-    PORT=5000
-    DATABASE_URL="postgresql://<user>:<password>@<host>:<port>/<dbname>?sslmode=require"
-    JWT_SECRET="your_jwt_secret_here"
-    JWT_REFRESH_SECRET="your_refresh_secret_here"
-    ```
-4.  Run Prisma Migrations to set up your PostgreSQL database schema:
-    ```bash
-    npx prisma migrate dev --name init
-    ```
-5.  Seed the database with the curriculum (injects the complete set of 641 verified coding problems):
-    ```bash
-    npx prisma db seed
-    ```
-6.  Start the development server:
-    ```bash
-    npm run dev
-    ```
-    The backend server will run on `http://localhost:5000`.
-
----
-
-### 3. Frontend Setup
-
-1.  Navigate to the frontend directory:
-    ```bash
-    cd ../frontend
-    ```
-2.  Install dependencies:
-    ```bash
-    npm install
-    ```
-3.  Start the Vite development server:
-    ```bash
-    npm run dev
-    ```
-    Open `http://localhost:3000` in your browser to view the application.
+### 2. Frontend Setup
+```bash
+cd frontend
+npm install
+npm run dev
+```
 
 ---
 
 ## 📸 Screenshots
 
-### 1. User Authentication & Secure Login
+### 1. User Authentication & Login
 ![Login](screenshots/login.png)
 
 ### 2. Developer Dashboard & Streak Grid
