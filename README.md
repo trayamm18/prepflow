@@ -2,8 +2,6 @@
 
 PrepFlow is a modern web application designed for software developers to practice coding challenges, take mock interviews, and track progress with interactive analytics.
 
-<video src="https://raw.githubusercontent.com/trayamm18/prepflow/main/demo.mp4" width="100%" autoplay loop muted controls></video>
-
 ---
 
 ## 🚀 Key Features
