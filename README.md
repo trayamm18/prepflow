@@ -4,19 +4,19 @@ PrepFlow is a modern web application designed for software developers to practic
 
 ---
 
-## 🚀 Key Features
+## Key Features
 *   **Coding Playground**: Dual-pane workspace with a syntax-highlighted coding editor and sample input/output test cases.
 *   **Streak Tracker**: GitHub-style activity contribution grid logging user progress and streak records.
 *   **Mock Interviews**: Integrated assessment simulator with real-time scoring and history.
 *   **Performance Analytics**: Dynamic dashboard showing statistics categorized by difficulty and topic.
 *   **Authentication & Themes**: Secure user authentication with responsive light and dark mode toggles.
 
-## 🛠️ Tech Stack
+## Tech Stack
 *   **Frontend**: React (TypeScript, Vite, Context API, CSS Grid/Flexbox)
 *   **Backend**: Node.js, Express, TypeScript, Prisma ORM, JWT Authentication
 *   **Database**: PostgreSQL
 
-## ⚙️ Quick Start
+## Quick Start
 
 ### 1. Backend Setup
 ```bash
@@ -37,7 +37,7 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### 1. User Authentication & Login
 ![Login](screenshots/login.png)
@@ -56,5 +56,5 @@ npm run dev
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the MIT License.
