@@ -1,0 +1,6427 @@
+{
+  "cppbasics": {
+    "id": "6a885b1b-e4ed-4465-b08a-2cd64d81aede",
+    "title": "Cpp Basics",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax"
+    ]
+  },
+  "ifelseif": {
+    "id": "723e9ff1-9b59-4041-8cde-4119a8e376e9",
+    "title": "If ElseIf",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "switchcase": {
+    "id": "e12777f6-5fff-4d24-99b3-a603d3a1af17",
+    "title": "Switch Case",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "whatarearraysstrings": {
+    "id": "b4f0f0f9-372f-4e4c-b066-3f9c505183da",
+    "title": "What are arrays, strings?",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax"
+    ]
+  },
+  "forloops": {
+    "id": "53245420-615f-4b63-9ef7-55d3d71a96c3",
+    "title": "For loops",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Loops"
+    ]
+  },
+  "whileloops": {
+    "id": "3dc88f57-1018-4068-8601-bc4640eba40a",
+    "title": "While loops",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Loops"
+    ]
+  },
+  "functionspassbyreferenceandvalue": {
+    "id": "4e4fb6e1-5ec4-4ef7-81cd-c61dc7aad5bf",
+    "title": "Functions (Pass by Reference and Value)",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax"
+    ]
+  },
+  "theorywithexamples": {
+    "id": "813b35c3-3ed6-4770-a273-484dbb2e1bbe",
+    "title": "Theory with examples",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax"
+    ]
+  },
+  "easyandmedium": {
+    "id": "8e239385-4f64-4b23-82f0-449000fc5ce8",
+    "title": "Easy and Medium",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "hard": {
+    "id": "0f258d02-0d08-4c4a-93d9-4ec4fe1e01f2",
+    "title": "Hard",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern1": {
+    "id": "a3472472-a4e0-467b-819f-44df1ebf2295",
+    "title": "Pattern 1",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern2": {
+    "id": "0e87acf1-6961-4c9f-baef-ee494d591db5",
+    "title": "Pattern 2",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern3": {
+    "id": "e1c7b851-8d40-45aa-9923-66e048e22805",
+    "title": "Pattern 3",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern4": {
+    "id": "565bfc55-fe25-42c6-853b-37360648b5a0",
+    "title": "Pattern 4",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern5": {
+    "id": "2f2d6b38-5446-4dee-824a-9941811d2a4c",
+    "title": "Pattern 5",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern6": {
+    "id": "bf59f429-6bd7-4f57-97cd-4c4d4b24bc0d",
+    "title": "Pattern 6",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern7": {
+    "id": "019207a9-8639-497a-9edd-a609e34ebd6c",
+    "title": "Pattern 7",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern8": {
+    "id": "f7227330-ef12-46f2-a1a6-fbfd7d476c22",
+    "title": "Pattern 8",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern9": {
+    "id": "1a2f903f-9edb-4af1-a790-a73f108b01d9",
+    "title": "Pattern 9",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern10": {
+    "id": "b3f1e684-dd95-451b-8af2-609d915f2d45",
+    "title": "Pattern 10",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern11": {
+    "id": "0fc96ade-61b7-4ced-865a-736f526764de",
+    "title": "Pattern 11",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern12": {
+    "id": "62cf8ef3-14e7-4c35-a3d3-5971eef17919",
+    "title": "Pattern 12",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern13": {
+    "id": "85dfbe88-494f-4ce9-8571-bfc74299e069",
+    "title": "Pattern 13",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern14": {
+    "id": "289b297d-bf0f-4a4c-b164-47b5b5a31144",
+    "title": "Pattern 14",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern15": {
+    "id": "067fc08e-efaa-4a75-a3df-f968d0f24c95",
+    "title": "Pattern 15",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern16": {
+    "id": "c5c2bb82-dacf-4ca7-a59c-e761f7c8840a",
+    "title": "Pattern 16",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern17": {
+    "id": "489d7f6d-631f-44d4-8a31-3a51e125ae08",
+    "title": "Pattern 17",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern18": {
+    "id": "ba8d3d83-9e99-4446-bca6-036af532cee9",
+    "title": "Pattern 18",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern19": {
+    "id": "01c7b580-4c49-4c69-99f9-03b43a1721ff",
+    "title": "Pattern 19",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern20": {
+    "id": "847ecf10-5ebd-4d87-b5c8-ff090917b45a",
+    "title": "Pattern 20",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern21": {
+    "id": "7f906003-889c-411d-a343-27907a51c1b2",
+    "title": "Pattern 21",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "pattern22": {
+    "id": "926d0277-164d-4ea2-9c36-d53d4329fd76",
+    "title": "Pattern 22",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Patterns"
+    ]
+  },
+  "stl": {
+    "id": "eec342d9-1324-496f-a88d-f0b18461b137",
+    "title": "STL",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "javacollections": {
+    "id": "f8667448-47b3-4a98-b929-8051e5ff06be",
+    "title": "Java Collections",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "countalldigitsofanumber": {
+    "id": "e1f06434-4923-42a6-b4fb-48a8f8294c79",
+    "title": "Count all Digits of a Number",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "reverseanumber": {
+    "id": "e5532cbe-df8a-4352-8881-21f390bafa5f",
+    "title": "Reverse a number",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "palindromenumber": {
+    "id": "966b0e8b-dfda-4a90-9f61-be58e345735e",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "gcdoftwonumbers": {
+    "id": "d14b6ad3-9504-4d8e-9811-c612617661d0",
+    "title": "GCD of Two Numbers",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "checkifthenumberisarmstrong": {
+    "id": "48e24180-2630-4a16-98b8-a365f76653d5",
+    "title": "Check if the Number is Armstrong",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Math",
+      "Control Flow"
+    ]
+  },
+  "printalldivisors": {
+    "id": "d60065ca-5c72-4910-878b-b2ccb2b0ac7f",
+    "title": "Print all Divisors",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "checkforprimenumber": {
+    "id": "e763a14b-cae5-419d-80d9-5d7ba2cc0e20",
+    "title": "Check for Prime Number",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Math",
+      "Loops"
+    ]
+  },
+  "understandrecursionbyprintsomethingntimes": {
+    "id": "48bfa985-6d74-44c8-8e2b-2ea4d87e20fb",
+    "title": "Understand recursion by print something N times",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Recursion"
+    ]
+  },
+  "printnamentimesusingrecursion": {
+    "id": "93cd4c9c-e7b6-4290-85a1-f951a066570a",
+    "title": "Print name N times using recursion",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Recursion"
+    ]
+  },
+  "print1tonusingrecursion": {
+    "id": "d0ba4bd0-45c9-4bf0-a61b-1ce9d3efaa88",
+    "title": "Print 1 to N using Recursion",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Recursion"
+    ]
+  },
+  "printnto1usingrecursion": {
+    "id": "907e5b5e-cd60-46eb-8037-28501d1c8cd4",
+    "title": "Print N to 1 using Recursion",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Recursion"
+    ]
+  },
+  "sumoffirstnnumbers": {
+    "id": "90ee57ef-7f53-499a-bbd0-9db925e2fbaf",
+    "title": "Sum of First N Numbers",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Recursion",
+      "Basic Syntax",
+      "Loops"
+    ]
+  },
+  "factorialofagivennumber": {
+    "id": "9c491ec8-d1bc-4544-b999-2520dd858fd0",
+    "title": "Factorial of a given number",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Recursion"
+    ]
+  },
+  "reverseanarray": {
+    "id": "7d202a79-65d5-4e0f-b052-28f7718eb49e",
+    "title": "Reverse an array",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Recursion"
+    ]
+  },
+  "maxconsecutiveonesiii": {
+    "id": "6eee6f73-b359-4bd7-a32f-047af9aa0896",
+    "title": "Max Consecutive Ones III",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "fibonaccinumber": {
+    "id": "d0c87c57-8d12-4f70-b2df-307649c18ebc",
+    "title": "Fibonacci Number",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Recursion"
+    ]
+  },
+  "basichashing": {
+    "id": "c0951d2b-37dd-44b2-a4d2-7ff7316ff206",
+    "title": "Basic Hashing",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "countingfrequenciesofarrayelements": {
+    "id": "54337fe4-0e7c-40a1-96ab-c64a770980bf",
+    "title": "Counting Frequencies of Array Elements",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "highestoccurringelementinanarray": {
+    "id": "7cdfe62b-bdf3-4bc1-8905-6025dd354ebb",
+    "title": "Highest Occurring Element in an Array",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "selectionsort": {
+    "id": "01379d27-66cd-47a9-a7ee-f899e12eb101",
+    "title": "Selection Sort",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Sorting"
+    ]
+  },
+  "bubblesort": {
+    "id": "132b354c-1963-4e27-841f-0e61412056ee",
+    "title": "Bubble Sort",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Sorting"
+    ]
+  },
+  "insertionsorting": {
+    "id": "037a93a2-6adb-4b55-a5ca-fbc92ccb3eb9",
+    "title": "Insertion Sorting",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Sorting"
+    ]
+  },
+  "mergesorting": {
+    "id": "37bd7a8f-7cdf-4420-a54f-0e7e08ede9ab",
+    "title": "Merge Sorting",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Sorting"
+    ]
+  },
+  "recursivebubblesort": {
+    "id": "d3fffdc8-8c90-447f-bd47-73e560423b61",
+    "title": "Recursive Bubble Sort",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Sorting"
+    ]
+  },
+  "recursiveinsertionsort": {
+    "id": "a60b85ba-b18d-4a6c-813b-bae2ef4a3dd3",
+    "title": "Recursive Insertion Sort",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Sorting"
+    ]
+  },
+  "votingeligibilitychecker": {
+    "id": "69cbeb88-81f7-4be5-9380-f8669136d5fe",
+    "title": "Voting Eligibility Checker",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "quicksorting": {
+    "id": "931393ff-2a07-4793-b0ae-2c789e8ed796",
+    "title": "Quick Sorting",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Sorting"
+    ]
+  },
+  "checkifanarrayrepresentsaminheap": {
+    "id": "27077d48-d8b4-42db-ad17-0f93dad5cafc",
+    "title": "Check if an array represents a min heap",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Control Flow"
+    ]
+  },
+  "secondlargestelement": {
+    "id": "261ee67d-e741-4280-850c-e65f40b18a15",
+    "title": "Second Largest Element",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "checkifthearrayissortedii": {
+    "id": "92b87d4f-1038-490f-84b0-40e3145f8e1d",
+    "title": "Check if the Array is Sorted II",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Control Flow"
+    ]
+  },
+  "removeduplicatesfromsortedarray": {
+    "id": "a3d8d8a4-9f29-44b4-822b-03a4d18414d1",
+    "title": "Remove duplicates from Sorted array",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "leftrotatearraybyone": {
+    "id": "2aa3db5b-f06b-4e8e-b6cc-41d66238ff39",
+    "title": "Left Rotate Array by One",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "leftrotatearraybykplaces": {
+    "id": "e491e652-2b4f-4f5f-a9a9-8ee76d7d895c",
+    "title": "Left Rotate Array by K Places",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "movezerostoend": {
+    "id": "3a9f508f-6262-4869-b410-71bec82ca15d",
+    "title": "Move Zeros to End",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "linearsearch": {
+    "id": "2944e699-2ab6-4388-b7fb-280c7ed3ef8f",
+    "title": "Linear Search",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "unionoftwosortedarrays": {
+    "id": "b49e19dd-f147-46f1-bd3c-36be070c4c07",
+    "title": "Union of two sorted arrays",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "findmissingnumber": {
+    "id": "6ab6a2a7-2b96-42be-b4fe-61df3079850b",
+    "title": "Find missing number",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "maximumconsecutiveones": {
+    "id": "23d54b05-d465-4cd4-8b00-d30225f0a4b1",
+    "title": "Maximum Consecutive Ones",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "findthenumberthatappearsonceandothernumberstwice": {
+    "id": "17a6f19d-662c-4151-9804-043a50bcc4b5",
+    "title": "Find the number that appears once, and other numbers twice.",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "longestsubarraywithgivensumkpositives": {
+    "id": "163a3074-28ec-44d2-9221-fb2347d23969",
+    "title": "Longest subarray with given sum K(positives)",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "longestsubarraywithsumk": {
+    "id": "43941b93-9b51-4cec-898a-0d88b8190587",
+    "title": "Longest subarray with sum K",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "twosum": {
+    "id": "f3975abc-3d3f-4233-8352-7e2c57ddbf42",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Hashing"
+    ]
+  },
+  "countsquaresubmatriceswithallonesdp56": {
+    "id": "736aac4a-3113-47b3-872b-a1c0f96c54e9",
+    "title": "Count Square Submatrices with All Ones|(DP-56)",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "trieimplementationandoperations": {
+    "id": "a8244cfd-5afd-449f-beff-4d8f11b1bbc7",
+    "title": "Trie Implementation and Operations",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "trieimplementationandadvancedoperations": {
+    "id": "19e947a6-e670-48e6-9bb0-68c504411cd8",
+    "title": "Trie Implementation and Advanced Operations",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "longestwordwithallprefixes": {
+    "id": "5fd01f18-f786-4450-8212-793c342b3c81",
+    "title": "Longest Word with All Prefixes",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "numberofdistinctsubstringsinastring": {
+    "id": "6cdb44b2-fd2a-4677-b411-4ad979b84fdf",
+    "title": "Number of distinct substrings in a string",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "bitprerequisitesfortrieproblems": {
+    "id": "327be699-43dd-4905-a7d4-d30f616e096d",
+    "title": "Bit PreRequisites for TRIE Problems",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Loops"
+    ]
+  },
+  "sortanarrayof0s1sand2s": {
+    "id": "6ac7125e-6099-4996-a68c-9daced123307",
+    "title": "Sort an array of 0's 1's and 2's",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "majorityelementi": {
+    "id": "2a8b8d1f-2cbe-41a1-8107-c588b9014bad",
+    "title": "Majority Element-I",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "kadanesalgorithm": {
+    "id": "478ad3f9-627d-460a-a062-6ba02626cc80",
+    "title": "Kadane's Algorithm",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "printsubarraywithmaximumsubarraysumextendedversionofaboveproblem": {
+    "id": "a0366b1b-3370-435d-8cba-ad39a6a5c000",
+    "title": "Print subarray with maximum subarray sum (extended version of above problem)",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "stockbuyandsell": {
+    "id": "7fa5c2dd-0208-4681-993d-d8b5f89a35b3",
+    "title": "Stock Buy and Sell",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "rearrangearrayelementsbysign": {
+    "id": "28111543-42b3-492a-97b7-53d873ca0f33",
+    "title": "Rearrange array elements by sign",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "nextpermutation": {
+    "id": "6811197a-ced8-42bd-87f6-98333c6dbe5c",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "leadersinanarray": {
+    "id": "e862ba47-ae6c-4c50-91af-ad24d3540947",
+    "title": "Leaders in an Array",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "longestconsecutivesequenceinanarray": {
+    "id": "aa5397c8-0af5-4c7b-97ed-25efa880038b",
+    "title": "Longest Consecutive Sequence in an Array",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "setmatrixzeroes": {
+    "id": "d16659b6-5a54-47f1-acff-080405bde80a",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "rotatematrixby90degrees": {
+    "id": "797ea65d-732d-473e-9aff-1d9b38169dc5",
+    "title": "Rotate matrix by 90 degrees",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "printthematrixinspiralmanner": {
+    "id": "de7cbfbd-82b1-418b-b361-0585046554fd",
+    "title": "Print the matrix in spiral manner",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "countsubarrayswithgivensum": {
+    "id": "bc647190-47b0-4c56-a1e3-b268be3a20d9",
+    "title": "Count subarrays with given sum",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "pascalstrianglei": {
+    "id": "4df01b8f-0fec-4b6a-9118-bb117f4bfa0c",
+    "title": "Pascal's Triangle I",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "majorityelementii": {
+    "id": "46087208-da7b-405f-9401-7e54ba48f19b",
+    "title": "Majority Element-II",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "3sum": {
+    "id": "c0ab6a53-db04-4f9e-8654-ebdbac0e81cd",
+    "title": "3 Sum",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "4sum": {
+    "id": "fbb29c64-47cc-411c-92e2-1fc82e179788",
+    "title": "4 Sum",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "largestsubarraywithsum0": {
+    "id": "99425932-6dd3-4014-a30f-b873daaf1fd7",
+    "title": "Largest Subarray with Sum 0",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "countsubarrayswithgivenxork": {
+    "id": "2a810db5-9985-4aad-9241-8681158035b2",
+    "title": "Count subarrays with given xor K",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "mergeoverlappingsubintervals": {
+    "id": "12520422-b9b6-4302-b4c9-5f4d12073a9a",
+    "title": "Merge Overlapping Subintervals",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "mergetwosortedarrayswithoutextraspace": {
+    "id": "46bb13ce-0a1d-4f6d-8344-c8b8d13ddc51",
+    "title": "Merge two sorted arrays without extra space",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "findtherepeatingandmissingnumber": {
+    "id": "cf58fd4d-7362-4949-b685-1f57ba22f1d1",
+    "title": "Find the repeating and missing number",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "countinversions": {
+    "id": "b050ff71-98ec-419d-bc3e-90d567c489ad",
+    "title": "Count Inversions",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "reversepairs": {
+    "id": "c04724b4-88a5-4798-8d7f-a6db5af886fc",
+    "title": "Reverse Pairs",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "maximumproductsubarrayinanarray": {
+    "id": "91160ea8-858c-4f48-b1e1-bf8720594d8c",
+    "title": "Maximum Product Subarray in an Array",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "searchxinsortedarray": {
+    "id": "2c65541f-46a9-4651-a786-943341a2eb67",
+    "title": "Search X in sorted array",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "maximumpathsum": {
+    "id": "b9908202-4dc1-4578-aca7-1a3fd7d668b6",
+    "title": "Maximum path sum",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "upperbound": {
+    "id": "4e9f04b9-70e8-4945-8d32-f5eccd702e3f",
+    "title": "Upper Bound",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "searchinsertposition": {
+    "id": "fb1ae57d-5601-4f4c-9636-5b1b75930fc7",
+    "title": "Search insert position",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "floorandceilinsortedarray": {
+    "id": "d54cfbb4-553f-42fb-b7cb-ebe61a8c3dc5",
+    "title": "Floor and Ceil in Sorted Array",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "firstandlastoccurrence": {
+    "id": "40c85c9b-2571-4a57-8ae5-3409daa122ac",
+    "title": "First and last occurrence",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "countoccurrencesinasortedarray": {
+    "id": "cd541208-86b7-40f6-af80-791ad45e168b",
+    "title": "Count Occurrences in a Sorted Array",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "searchinrotatedsortedarrayi": {
+    "id": "8284fb02-c335-4f24-a1a2-3c0e94be592c",
+    "title": "Search in rotated sorted array-I",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "searchinrotatedsortedarrayii": {
+    "id": "cac45989-085c-49c9-a136-618527aa1b3d",
+    "title": "Search in rotated sorted array-II",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "findminimuminrotatedsortedarray": {
+    "id": "af67b0cc-d51b-426e-895c-e0302a606b5b",
+    "title": "Find minimum in Rotated Sorted Array",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "findouthowmanytimesthearrayisrotated": {
+    "id": "7eaf4268-8d71-4594-b376-e5244e372b6d",
+    "title": "Find out how many times the array is rotated",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "singleelementinasortedarray": {
+    "id": "9d9cfa26-4ec0-4f3b-8cad-db9c9795125d",
+    "title": "Single element in a Sorted Array",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "findpeakelement": {
+    "id": "92c32c97-a599-416c-b928-dbced1478d3f",
+    "title": "Find peak element",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "findsquarerootofanumber": {
+    "id": "e18f1827-bd6f-44a5-9ad8-8e497d3b9914",
+    "title": "Find square root of a number",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "findnthrootofanumber": {
+    "id": "a25c7833-9cb6-4c78-be42-7559257a6521",
+    "title": "Find Nth root of a number",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "kokoeatingbananas": {
+    "id": "dfb6a097-5005-4e48-a94d-82c5a934d6c5",
+    "title": "Koko eating bananas",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "minimumdaystomakembouquets": {
+    "id": "69420928-3ee0-4ee3-b03c-846a01935dc9",
+    "title": "Minimum days to make M bouquets",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "findthesmallestdivisor": {
+    "id": "5c9fe403-d845-43e1-8eeb-f06b9c892f04",
+    "title": "Find the smallest divisor",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "capacitytoshippackageswithinddays": {
+    "id": "644b3e22-cf9a-4c84-b8ac-ee5703d388a1",
+    "title": "Capacity to Ship Packages Within D Days",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "kthmissingpositivenumber": {
+    "id": "66b4c9ed-6213-453a-a236-1d9c4073e224",
+    "title": "Kth Missing Positive Number",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "aggressivecows": {
+    "id": "52ee5dee-8b15-4687-b2f0-a8d2ffef50ad",
+    "title": "Aggressive Cows",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "bookallocationproblem": {
+    "id": "2993301f-468f-453a-be9f-3179b883eef1",
+    "title": "Book Allocation Problem",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "splitarraylargestsum": {
+    "id": "76ef30ae-ba11-4e17-b559-4a9bc63ea27e",
+    "title": "Split array - largest sum",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "painterspartition": {
+    "id": "468f7679-869f-415f-b3a1-b39f0658e2d2",
+    "title": "Painter's Partition",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "minimizemaxdistancetogasstation": {
+    "id": "c62a9af0-e9fd-49c3-84fa-470b4d36314e",
+    "title": "Minimize Max Distance to Gas Station",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "medianof2sortedarrays": {
+    "id": "79f4a83d-bc92-4f9b-a0dd-ea151dc89ee7",
+    "title": "Median of 2 sorted arrays",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "kthelementof2sortedarrays": {
+    "id": "cda8ae2e-db57-40fe-ace0-1d9749d3eb08",
+    "title": "Kth element of 2 sorted arrays",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "findrowwithmaximum1s": {
+    "id": "d92789d3-2863-4117-a038-8d1aa86f74d2",
+    "title": "Find row with maximum 1's",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "searchina2dmatrix": {
+    "id": "14a57a9e-2a58-49a4-9f3f-16bec0e36ae3",
+    "title": "Search in a 2D matrix",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "searchin2dmatrixii": {
+    "id": "db0044fd-c7d3-43e0-b851-f2f546db40e1",
+    "title": "Search in 2D matrix - II",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "maximumxoroftwonumbersinanarray": {
+    "id": "fc93ec64-5ce7-45ad-bd9a-c1a0a76d5d03",
+    "title": "Maximum XOR of two numbers in an array",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "findpeakelementii": {
+    "id": "4a3aee5e-49a5-44e1-bc85-c7a6e5421a85",
+    "title": "Find Peak Element - II",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "matrixmedian": {
+    "id": "9f3e7ee6-a761-4794-8912-565f597e1753",
+    "title": "Matrix Median",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "removeoutermostparentheses": {
+    "id": "932e87a2-8e32-4e33-a7dc-3c0eb2869acb",
+    "title": "Remove Outermost Parentheses",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Strings"
+    ]
+  },
+  "reversewordsinagivenstringpalindromecheck": {
+    "id": "217c84b0-6d88-47ca-bcd3-b94de9f93eab",
+    "title": "Reverse words in a given string / Palindrome Check",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Strings"
+    ]
+  },
+  "largestoddnumberinastring": {
+    "id": "f18fe2eb-8b19-4ff9-8f65-6f54b0e5b3af",
+    "title": "Largest Odd Number in a String",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Strings"
+    ]
+  },
+  "longestcommonprefix": {
+    "id": "dd904d0b-d29f-4fb2-9ef5-76ac60434cea",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Strings"
+    ]
+  },
+  "isomorphicstring": {
+    "id": "af642d39-dc13-4c91-818e-3cd407086cbc",
+    "title": "Isomorphic String",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Strings"
+    ]
+  },
+  "rotatestring": {
+    "id": "476cb9e8-9501-4ee8-94b5-2e29894c9b26",
+    "title": "Rotate String",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Strings"
+    ]
+  },
+  "checkiftwostringsareanagramofeachother": {
+    "id": "7949b442-9809-4500-979c-f924c8085c2c",
+    "title": "Check if two strings are anagram of each other",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Strings",
+      "Control Flow"
+    ]
+  },
+  "sortcharactersbyfrequency": {
+    "id": "59c86680-dff6-46c3-b3fc-cf85892311d4",
+    "title": "Sort Characters by Frequency",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Strings"
+    ]
+  },
+  "maximumnestingdepthoftheparentheses": {
+    "id": "53fc200a-c1f1-4bf7-b317-02015b86fa07",
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Strings"
+    ]
+  },
+  "passorfailstatus": {
+    "id": "1435a0fe-b6b9-48f4-a231-81abafe11023",
+    "title": "Pass or Fail Status",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "romantointeger": {
+    "id": "0104c2d9-178b-464f-9946-ff53eeaf521c",
+    "title": "Roman to Integer",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Strings"
+    ]
+  },
+  "stringtointegeratoi": {
+    "id": "2949e766-c6c8-41fc-9869-54368e9b315c",
+    "title": "String to Integer (atoi)",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Strings"
+    ]
+  },
+  "countnumberofsubstrings": {
+    "id": "84b08f33-928c-4a7f-8207-d42efac24a87",
+    "title": "Count Number of Substrings",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Strings"
+    ]
+  },
+  "longestpalindromicsubstring": {
+    "id": "9f326ebd-2d42-4c9f-ab47-fbde5e4bbe6e",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Strings"
+    ]
+  },
+  "sumofbeautyofallsubstrings": {
+    "id": "5865ac5b-8c02-4a72-8989-eb47a03f27ef",
+    "title": "Sum of Beauty of All Substrings",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Strings"
+    ]
+  },
+  "reverseeverywordinastring": {
+    "id": "4b7d1d70-cc2c-446e-8c2c-5d7ae2fab75c",
+    "title": "Reverse every word in a string",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Strings"
+    ]
+  },
+  "introductiontosinglylinkedlist": {
+    "id": "7efdaac4-f1cb-4933-b2ed-ce21249a2943",
+    "title": "Introduction to Singly LinkedList",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "insertionattheheadoflinkedlist": {
+    "id": "f0ffe124-a29b-45b2-935d-68cebb2e516d",
+    "title": "Insertion at the head of Linked List",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "deletionoftheheadofll": {
+    "id": "7b028eeb-6ee4-41c4-9269-358be5044ff4",
+    "title": "Deletion of the head of LL",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "findthelengthofthelinkedlist": {
+    "id": "42c74e59-6cbc-4826-9273-f5cf38465c82",
+    "title": "Find the length of the Linked List",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "searchinlinkedlist": {
+    "id": "d701d8e3-69d0-4600-861b-3e77d3195740",
+    "title": "Search in Linked List",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "introductiontodoublyll": {
+    "id": "608a6b71-4a5a-4dd5-81e3-d1be60550e6a",
+    "title": "Introduction to Doubly LL",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "insertnodebeforeheadindoublylinkedlist": {
+    "id": "9d4cc4cf-83b6-4251-9f3e-f270f3b70f89",
+    "title": "Insert node before head in Doubly Linked List",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Loops"
+    ]
+  },
+  "deleteheadofdoublylinkedlist": {
+    "id": "e39bb80c-a772-44bb-af56-c8a03a9a5a6c",
+    "title": "Delete head of Doubly Linked List",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "reverseadoublylinkedlist": {
+    "id": "8eb40aad-8a43-44aa-9585-ff4090a50bc0",
+    "title": "Reverse a Doubly Linked List",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "middleofalinkedlisttortoiseharemethod": {
+    "id": "901f11b2-64f2-417e-a63b-1026a261f59c",
+    "title": "Middle of a LinkedList [TortoiseHare Method]",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "reversealinkedlistiterative": {
+    "id": "9f38eafb-a3a8-4624-98f6-4749b36e2e5a",
+    "title": "Reverse a LinkedList [Iterative]",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "reverseall": {
+    "id": "8823fdfd-f4a7-45e0-8136-60e274c14183",
+    "title": "Reverse a LL",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "detectaloopinll": {
+    "id": "9d07d8bd-66dd-4778-bce3-5693b6b1b2a4",
+    "title": "Detect a loop in LL",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Loops"
+    ]
+  },
+  "findthestartingpointinll": {
+    "id": "08b572ba-8fad-4410-be97-1c8a3c8ff6af",
+    "title": "Find the starting point in LL",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "lengthofloopinll": {
+    "id": "236d82e1-1fa1-4bde-913a-c19065970759",
+    "title": "Length of loop in LL",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Loops"
+    ]
+  },
+  "leapyearcalculator": {
+    "id": "bd82058b-21ad-401a-ae80-c8d8dc630d9e",
+    "title": "Leap Year Calculator",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "checkifllispalindromeornot": {
+    "id": "a7b0594a-383b-4df9-8ccd-651d4402e939",
+    "title": "Check if LL is palindrome or not",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Control Flow"
+    ]
+  },
+  "segregateoddandevennodesinlinkedlist": {
+    "id": "c1b7ce4e-c3e4-4ff9-9c64-3d25eec2b2c3",
+    "title": "Segregate odd and even nodes in Linked List",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "removenthnodefromthebackofthell": {
+    "id": "fdfe171c-faed-40c8-8771-dcb315934404",
+    "title": "Remove Nth node from the back of the LL",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "deletethemiddlenodeinll": {
+    "id": "e46f5dcd-a92d-4b35-aa22-bf68aa1b5b30",
+    "title": "Delete the middle node in LL",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "sortll": {
+    "id": "ab43ead9-473a-43cd-945f-e97ea038c61d",
+    "title": "Sort LL",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "sortalinkedlistof0s1sand2s": {
+    "id": "40092f74-ebf0-43a8-93ab-855f19a45eb5",
+    "title": "Sort a Linked List of 0's 1's and 2's",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "findtheintersectionpointofyll": {
+    "id": "b6f02ed0-09ba-4669-98a4-ab24faf88841",
+    "title": "Find the intersection point of Y LL",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "addonetoanumberrepresentedbyll": {
+    "id": "2a4957d4-a174-4f79-87d9-2a37331d0c9f",
+    "title": "Add one to a number represented by LL",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "addtwonumbersinlinkedlist": {
+    "id": "66c094d8-e022-45c1-b3cc-1ac624721c07",
+    "title": "Add two numbers in Linked List",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "deletealloccurrencesofakeyindll": {
+    "id": "cad86779-fecd-450b-9559-a67da9d76bff",
+    "title": "Delete all occurrences of a key in DLL",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "findpairswithgivensumindoublylinkedlist": {
+    "id": "9876d34c-81d0-43ce-9f73-248363d7ce64",
+    "title": "Find Pairs with Given Sum in Doubly Linked List",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "removeduplicatesfromsorteddll": {
+    "id": "1bb3d569-5670-4d29-a923-c4b207e6ad52",
+    "title": "Remove duplicates from sorted DLL",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "reversellingroupofgivensizek": {
+    "id": "79dfa156-8551-4016-ac24-2e04ae404ed3",
+    "title": "Reverse LL in group of given size K",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "rotateall": {
+    "id": "747ae3f6-2ec5-4700-bada-35f374f937e1",
+    "title": "Rotate a LL",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "flatteningofll": {
+    "id": "4ca0e2d9-54aa-4bd6-b85c-08139a532770",
+    "title": "Flattening of LL",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "cloneallwithrandomandnextpointer": {
+    "id": "a630cc41-5f2d-4528-8920-f8d3c7efd81c",
+    "title": "Clone a LL with random and next pointer",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "recursiveimplementationofatoi": {
+    "id": "d99f73ae-b59e-4c31-b06b-c0fa9fb0fdb9",
+    "title": "Recursive Implementation of atoi()",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "powxn": {
+    "id": "367b762b-5e4e-451e-a9c5-c18f52669872",
+    "title": "Pow(x, n)",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "countgoodnumbers": {
+    "id": "c39b102d-6936-426d-b9e0-33e2341f5abe",
+    "title": "Count Good Numbers",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "sortastackusingrecursion": {
+    "id": "54e01505-afdd-4ae4-8437-153f21991b25",
+    "title": "Sort a stack using recursion",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "reverseastack": {
+    "id": "875428b3-4974-4df1-a9ae-f98bfc972b81",
+    "title": "Reverse a Stack",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "generatebinarystringswithoutconsecutive1s": {
+    "id": "da71486b-61ee-4a29-aaf5-07009fa02bef",
+    "title": "Generate Binary Strings Without Consecutive 1s",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "generateparentheses": {
+    "id": "49d3b6c8-ca28-4832-923e-c1df58c68bdb",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "powerset": {
+    "id": "c85c2991-9ecb-40b8-8764-453e657f73f5",
+    "title": "Power Set",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "learnallpatternsofsubsequencestheory": {
+    "id": "4eaa6cd4-9bab-4bd1-8467-78a97b1ebefc",
+    "title": "Learn All Patterns of Subsequences (Theory)",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "countallsubsequenceswithsumk": {
+    "id": "2d967d31-bc05-47e2-813a-a399c510b4d4",
+    "title": "Count all subsequences with sum K",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "checkifthereexistsasubsequencewithsumk": {
+    "id": "ba13fbd2-b9cc-4faa-bbe4-d925f9d47907",
+    "title": "Check if there exists a subsequence with sum K",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Control Flow"
+    ]
+  },
+  "combinationsum": {
+    "id": "22be819c-ee65-4c56-aa4f-888701fe6e4d",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "combinationsumii": {
+    "id": "b967e1b3-c00e-4960-9f82-72b922ed6b7d",
+    "title": "Combination Sum II",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "subsetsi": {
+    "id": "b6bf4d74-6328-4185-9dd5-3d524e448f97",
+    "title": "Subsets I",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "subsetsii": {
+    "id": "db732019-468a-488d-bfc7-6cb22b9e2b05",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "combinationsumiii": {
+    "id": "6d354829-0a94-4705-a76a-02bf9bce7a0d",
+    "title": "Combination Sum III",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "lettercombinationsofaphonenumber": {
+    "id": "62b78246-8b2c-41bc-b695-1d66a53e6110",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "palindromepartitioning": {
+    "id": "82b46452-d2cb-4c65-9615-251c8d12a5e2",
+    "title": "Palindrome partitioning",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "wordsearch": {
+    "id": "057261cc-38b2-4f1b-a74c-b72974a42884",
+    "title": "Word Search",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "nqueen": {
+    "id": "b527d17b-4f84-4d28-88a4-506b764eb469",
+    "title": "N Queen",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "ratinamaze": {
+    "id": "5fcc91be-1327-4ef8-87dd-32626cf9e446",
+    "title": "Rat in a Maze",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "wordbreak": {
+    "id": "eb84e680-a644-4383-bb14-4d337af4ac3a",
+    "title": "Word Break",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "mcoloringproblem": {
+    "id": "5619a43f-0664-42d6-99d9-cdbb80c236d4",
+    "title": "M Coloring Problem",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "sudokusolver": {
+    "id": "50a08e0e-e0e0-434e-b76f-7e7b4c34f507",
+    "title": "Sudoku Solver",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "expressionaddoperators": {
+    "id": "2424418d-68c9-4bb1-9ad5-ad62c162e5d8",
+    "title": "Expression Add Operators",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "introductiontobitsandtricks": {
+    "id": "e76720db-252d-470c-bff7-5d330df8c8e3",
+    "title": "Introduction to Bits and Tricks",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "checkiftheithbitissetornot": {
+    "id": "88f710f8-2abe-4e6f-bb64-ec99f07719b7",
+    "title": "Check if the i-th bit is Set or Not",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Control Flow"
+    ]
+  },
+  "checkifanumberisoddornot": {
+    "id": "a11a768f-be6d-4954-adb8-4537197d58a3",
+    "title": "Check if a Number is Odd or Not",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Control Flow"
+    ]
+  },
+  "checkifanumberispowerof2ornot": {
+    "id": "a99d5bca-20ef-4e89-9f84-d03d770a594f",
+    "title": "Check if a Number is Power of 2 or Not",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Control Flow"
+    ]
+  },
+  "countthenumberofsetbits": {
+    "id": "8c227bb7-f58e-4fdd-8f46-5a4d4d91dde4",
+    "title": "Count the Number of Set Bits",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "setunsettherightmostunsetbit": {
+    "id": "b5d762ae-5f80-43e0-8cfd-3a4bbaed0062",
+    "title": "Set/Unset the rightmost unset bit",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "swaptwonumbers": {
+    "id": "286da9eb-d583-4ac6-bd24-6f20abd5f13b",
+    "title": "Swap Two Numbers",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "dividetwonumberswithoutmultiplicationanddivision": {
+    "id": "8ef9494b-03d2-443b-994d-2914e8c6f625",
+    "title": "Divide two numbers without multiplication and division",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "minimumbitflipstoconvertnumber": {
+    "id": "2d540005-c5a8-4792-8857-3b911702335c",
+    "title": "Minimum Bit Flips to Convert Number",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "singlenumberi": {
+    "id": "97fe853d-8810-4033-a951-d4586b5d4a7b",
+    "title": "Single Number - I",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "powersetbitmanipulation": {
+    "id": "1500741e-5c0b-468a-9ae8-709886930997",
+    "title": "Power Set Bit Manipulation",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "xorofnumbersinagivenrange": {
+    "id": "88f17bcd-6b49-4cad-af1d-b5614a27b287",
+    "title": "XOR of numbers in a given range",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "singlenumberiii": {
+    "id": "39d57b37-378d-4671-8553-6d58554de157",
+    "title": "Single Number - III",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "printprimefactorsofanumber": {
+    "id": "5ea38e18-227c-4262-80c9-2699e97b36b4",
+    "title": "Print Prime Factors of a Number",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "divisorsofanumber": {
+    "id": "4fdac51a-b542-45a1-98ff-87fac946f8aa",
+    "title": "Divisors of a Number",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "countprimesinrangeltor": {
+    "id": "6951cb1b-c894-42af-94e9-e7023a1756b7",
+    "title": "Count primes in range L to R",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "primefactorisationofanumber": {
+    "id": "9445fda9-a4a1-4d9a-a0cc-83b124a7d62a",
+    "title": "Prime factorisation of a Number",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "triangleclassificationbysides": {
+    "id": "b6408fef-247c-4018-87e8-99cc96954300",
+    "title": "Triangle Classification by Sides",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "implementstackusingarrays": {
+    "id": "8443acee-a8e9-4105-9226-9b6754cf22d4",
+    "title": "Implement Stack using Arrays",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "implementqueueusingarrays": {
+    "id": "65cbe80b-b556-419b-bbd8-be694f876a9e",
+    "title": "Implement Queue using Arrays",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "implementstackusingqueue": {
+    "id": "15dd0a69-7ae0-4434-a877-4587ad86377c",
+    "title": "Implement Stack using Queue",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "implementqueueusingstack": {
+    "id": "04d1ffda-d784-4624-809a-c8f460116e6b",
+    "title": "Implement Queue using Stack",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "implementstackusinglinkedlist": {
+    "id": "572412d9-e4aa-47be-bfdc-aa13f43f418d",
+    "title": "Implement stack using Linkedlist",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "implementqueueusinglinkedlist": {
+    "id": "cc7b30e0-243b-4b87-b7c4-6b21869ad8fb",
+    "title": "Implement queue using Linkedlist",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "balancedparanthesis": {
+    "id": "42efcee6-7732-4b98-9083-c28e7791e5e9",
+    "title": "Balanced Paranthesis",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "implementminstack": {
+    "id": "a48b63dd-6406-431a-9b70-b1e05265533a",
+    "title": "Implement Min Stack",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "infixtopostfixconversion": {
+    "id": "c1693d6b-8a72-417c-b76b-eb942745d9b1",
+    "title": "Infix to Postfix Conversion",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "prefixtoinfixconversion": {
+    "id": "e2259d17-04d6-4ba8-8c9f-447940c8168a",
+    "title": "Prefix to Infix Conversion",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "quadrantfinderofapoint": {
+    "id": "938333cb-2937-43fc-b7c6-e68c8fbe111b",
+    "title": "Quadrant Finder of a Point",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "prefixtopostfixconversion": {
+    "id": "7998bd2c-6a45-4b67-870a-ac32aa380e91",
+    "title": "Prefix to Postfix Conversion",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "postfixtoprefixconversion": {
+    "id": "24889335-1fda-473e-b361-97167d6e278f",
+    "title": "Postfix to Prefix Conversion",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "postfixtoinfixconversion": {
+    "id": "b8e3ad33-37ed-436f-a79e-c3a0b93980e2",
+    "title": "Postfix to Infix Conversion",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "infixtoprefixconversion": {
+    "id": "a1564c90-dd25-4bdb-b427-c95a820e5be3",
+    "title": "Infix to Prefix Conversion",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "nextgreaterelement": {
+    "id": "88f09965-d6b0-4801-99d2-0e07007402b0",
+    "title": "Next Greater Element",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Stack",
+      "Queue"
+    ]
+  },
+  "disjointset": {
+    "id": "b76c980e-b6c5-47f2-9794-a33d8f06bdbb",
+    "title": "Disjoint Set",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Binary Tree"
+    ]
+  },
+  "nextsmallerelement": {
+    "id": "fcc51fe5-bd7b-44b1-8ec4-bb75eaaa3f23",
+    "title": "Next Smaller Element",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Stack",
+      "Queue"
+    ]
+  },
+  "numberofgreaterelementstotheright": {
+    "id": "c13c73a7-4ec9-4a03-b6e4-f47dbba39813",
+    "title": "Number of Greater Elements to the Right",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Stack",
+      "Queue"
+    ]
+  },
+  "trappingrainwater": {
+    "id": "2f43f572-d334-4ed6-9dac-95e58edbe924",
+    "title": "Trapping Rainwater",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Stack",
+      "Queue"
+    ]
+  },
+  "sumofsubarrayminimums": {
+    "id": "50b5b75e-573a-403f-b4b0-dd50cfeff81b",
+    "title": "Sum of Subarray Minimums",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Stack",
+      "Queue"
+    ]
+  },
+  "asteroidcollision": {
+    "id": "e4305c0a-b10b-4b6e-b420-f98b4ab6943d",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Stack",
+      "Queue"
+    ]
+  },
+  "sumofsubarrayranges": {
+    "id": "e460e226-0789-4722-b8a8-b1a533506430",
+    "title": "Sum of Subarray Ranges",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Stack",
+      "Queue"
+    ]
+  },
+  "removekdigits": {
+    "id": "ad23bfb9-7413-479e-ad5a-6e47dd6a6bd7",
+    "title": "Remove K Digits",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Stack",
+      "Queue"
+    ]
+  },
+  "largestrectangleinahistogram": {
+    "id": "56393cb2-960d-40a4-93c0-e12f313debd2",
+    "title": "Largest rectangle in a histogram",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Stack",
+      "Queue"
+    ]
+  },
+  "maximumrectangles": {
+    "id": "82a94534-e61f-4740-80be-9e24d17fa1ae",
+    "title": "Maximum Rectangles",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Stack",
+      "Queue"
+    ]
+  },
+  "slidingwindowmaximum": {
+    "id": "736fc953-21e9-4993-8ed5-69fcc44fbdc4",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "stockspanproblem": {
+    "id": "35eb7aaf-3e2b-423b-bc7b-3d9c14c507ab",
+    "title": "Stock span problem",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "celebrityproblem": {
+    "id": "f4ebf8b2-541a-4c02-9462-feda52b8cbd1",
+    "title": "Celebrity Problem",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "lrucache": {
+    "id": "3f0923f4-ca35-4442-b0b8-c66209a3b97c",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "lfucache": {
+    "id": "7f23bc9c-1a55-4750-b002-2a426883aba0",
+    "title": "LFU Cache",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "longestsubstringwithoutrepeatingcharacters": {
+    "id": "d2e8268e-f5d0-4719-bd20-1d3bdd09123e",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "longestrepeatingcharacterreplacement": {
+    "id": "abe0b948-9820-4d33-ab06-b65a2905f50a",
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "binarysubarrayswithsum": {
+    "id": "9f6afa43-7829-47e3-adff-1572310a51ba",
+    "title": "Binary Subarrays With Sum",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "countnumberofnicesubarrays": {
+    "id": "84d1d3b2-bd70-49a6-babb-a8557a753322",
+    "title": "Count number of Nice subarrays",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "numberofsubstringscontainingallthreecharacters": {
+    "id": "d6f44fc9-3a2d-4b95-90a5-3a251f49ebe4",
+    "title": "Number of Substrings Containing All Three Characters",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "longestsubstringwithatmostkdistinctcharacters": {
+    "id": "ed21c5f9-da8a-4077-8c72-bdcf2edba6cc",
+    "title": "Longest Substring With At Most K Distinct Characters",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "subarrayswithkdifferentintegers": {
+    "id": "efd03809-ccae-47ff-8668-83cd8742e6ee",
+    "title": "Subarrays with K Different Integers",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Control Flow"
+    ]
+  },
+  "minimumwindowsubsequence": {
+    "id": "f810784b-e928-4857-a2d0-c5d3270a4efa",
+    "title": "Minimum Window Subsequence",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "fruitintobaskets": {
+    "id": "f25ed26e-2ca8-436d-990e-b9c9c0a72293",
+    "title": "Fruit Into Baskets",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "maximumpointsyoucanobtainfromcards": {
+    "id": "f7482a9f-b9ed-4efa-baba-80dcf7b06117",
+    "title": "Maximum Points You Can Obtain from Cards",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "minimumwindowsubstring": {
+    "id": "80ffb2a6-6443-4b27-b941-2788cca8fde7",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "heapstheoryvideo": {
+    "id": "f4f917ed-346c-4ec8-8e49-8da2c6e1e907",
+    "title": "Heaps (Theory Video)",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "implementminheap": {
+    "id": "96a173be-317b-4387-b770-fac289b594c6",
+    "title": "Implement Min Heap",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "convertminheaptomaxheap": {
+    "id": "1eef14e0-9e3d-4beb-8237-6945ebf00d1b",
+    "title": "Convert Min Heap to Max Heap",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "kthlargestelementinanarray": {
+    "id": "f3a0f7f1-5e55-4efd-98b6-bae6757d72d5",
+    "title": "K-th Largest element in an array",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "kthsmallestelementinanarrayusepriorityqueue": {
+    "id": "3a2a5e7f-cf66-44cd-8224-921ec10c8e31",
+    "title": "Kth smallest element in an array [use priority queue]",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "sortksortedarray": {
+    "id": "ec8ff2a2-1874-4401-b4dc-cc45d529a9a2",
+    "title": "Sort K sorted array",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "mergeksortedlists": {
+    "id": "d4c9e69f-e1a2-4437-a0a7-29c6bbaf2d55",
+    "title": "Merge K sorted Lists",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "replaceelementsbytheirrank": {
+    "id": "03070f66-6b16-4b25-9f6e-ac17daf33d01",
+    "title": "Replace Elements by Their Rank",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "taskscheduler": {
+    "id": "0ee057c4-9355-41ad-b1df-9cb50e153633",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "handofstraights": {
+    "id": "7c31a2c0-53bb-4f4f-8070-c5c8aa1d4f2f",
+    "title": "Hand of Straights",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "designtwitter": {
+    "id": "5bb49a18-76a0-4064-a68c-104010f7fe05",
+    "title": "Design Twitter",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "minimumcosttoconnectsticks": {
+    "id": "0a04bd75-e64b-4020-ab29-1029a2e41800",
+    "title": "Minimum Cost to Connect Sticks",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "kthlargestelementinastreamofrunningintegers": {
+    "id": "ca8ada90-658a-4960-a8dc-8659dbfd4610",
+    "title": "Kth largest element in a stream of running integers",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "maximumsumcombination": {
+    "id": "ba48a3cb-b973-42a8-a8ad-599fe6a3bcb2",
+    "title": "Maximum Sum Combination",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "findmedianfromdatastream": {
+    "id": "200f74e9-58b0-4538-a95b-7b08d9bd09b1",
+    "title": "Find Median from Data Stream",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "topkfrequentelements": {
+    "id": "30d445bd-e33f-40c0-bf4a-5fc92c9b91e0",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "assigncookies": {
+    "id": "6894dbfd-4b98-4ba2-a8a5-2aee469f590f",
+    "title": "Assign Cookies",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "fractionalknapsack": {
+    "id": "496ec4ec-0491-43d5-ac99-2e7054701df8",
+    "title": "Fractional Knapsack",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "lemonadechange": {
+    "id": "cd4905e3-e260-4806-814a-d237addbc9e3",
+    "title": "Lemonade Change",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "validparanthesischecker": {
+    "id": "7476211a-a138-4eae-8724-68f5a3ff63a1",
+    "title": "Valid Paranthesis Checker",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "nmeetingsinoneroom": {
+    "id": "5dc8f97f-b80b-42bd-ae4b-3a566db0c0ee",
+    "title": "N meetings in one room",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "jumpgamei": {
+    "id": "c7bc8635-4b4b-4e27-b60b-de5021e457ab",
+    "title": "Jump Game - I",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "jumpgameii": {
+    "id": "135e89f0-91ac-4c8f-a5b3-7d2a50aa7238",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "minimumnumberofplatformsrequiredforarailway": {
+    "id": "6fe9f3d9-f564-4094-bcc3-2a374cad2c99",
+    "title": "Minimum number of platforms required for a railway",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Loops"
+    ]
+  },
+  "jobsequencingproblem": {
+    "id": "a8d235f3-93d9-42ab-a163-2614df475993",
+    "title": "Job sequencing Problem",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "candy": {
+    "id": "2cab7e08-a7d7-44a9-8ebe-6398d628a949",
+    "title": "Candy",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "shortestjobfirst": {
+    "id": "812cf625-3a8a-41aa-b07e-d198c0534bd1",
+    "title": "Shortest Job First",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "programforleastrecentlyusedlrupagereplacementalgorithm": {
+    "id": "bb0541c4-0c9d-4e5f-beaa-7ba8d10970be",
+    "title": "Program for Least Recently Used (LRU) Page Replacement Algorithm",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Loops"
+    ]
+  },
+  "insertinterval": {
+    "id": "0909e170-6df3-4ac9-9249-0afb1703508a",
+    "title": "Insert Interval",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "mergeintervals": {
+    "id": "1a125c52-509a-4431-a99a-440c674ad267",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "nonoverlappingintervals": {
+    "id": "13bfba45-d132-4203-917c-f600a9218cb7",
+    "title": "Non-overlapping Intervals",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "introductiontotrees": {
+    "id": "ed4e9208-f4b6-4280-8514-c2544f8a7036",
+    "title": "Introduction to Trees",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "findlargestofthreenumbers": {
+    "id": "7249adbb-15c3-44f9-b733-cf0ede61ddb6",
+    "title": "Find Largest of Three Numbers",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "binarytreerepresentationinjava": {
+    "id": "33f4cc52-bda0-456c-9f9b-7c046e5d1725",
+    "title": "Binary Tree Representation in Java",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "prepostinorderinonetraversal": {
+    "id": "aa37e085-dcb7-4dae-a0c9-dc74ac06287f",
+    "title": "Pre, Post, Inorder in one traversal",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "preordertraversal": {
+    "id": "a45c82e9-9f58-49b4-bc4c-664bfefeab11",
+    "title": "Preorder Traversal",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "inordertraversalofbinarytree": {
+    "id": "6b95ad37-b72d-452d-83ab-9bafdf2492f7",
+    "title": "Inorder Traversal of Binary Tree",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "postordertraversal": {
+    "id": "82c7d384-ce9c-41b3-aa3c-058290a92e68",
+    "title": "Postorder Traversal",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "levelordertraversal": {
+    "id": "a742c091-d96b-4b89-b053-445d07486896",
+    "title": "Level Order Traversal",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "iterativepreordertraversalofbinarytree": {
+    "id": "dece3fa2-10c9-49c5-99f8-0bc8c38a73bd",
+    "title": "Iterative Preorder Traversal of Binary Tree",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "iterativeinordertraversalofbinarytree": {
+    "id": "4a018ca9-521f-4c04-b5dc-c62fdfdf0c41",
+    "title": "Iterative Inorder Traversal of Binary Tree",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "postordertraversalofbinarytreeusing2stack": {
+    "id": "bf97861d-1271-4e93-8d29-3aa4c937e347",
+    "title": "Post-order Traversal of Binary Tree using 2 stack",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "postordertraversalofbinarytreeusing1stack": {
+    "id": "2e86d59c-ff5d-4008-9b12-d485f3bd0eb4",
+    "title": "Post-order Traversal of Binary Tree using 1 stack",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "preorderinorderandpostordertraversalinonetraversal": {
+    "id": "d34a0222-640d-4798-ace8-ca14742a0dea",
+    "title": "Preorder, Inorder, and Postorder Traversal in one Traversal",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "maximumdepthinbt": {
+    "id": "b84f4907-d39b-4e32-a6d7-e549be3757d3",
+    "title": "Maximum Depth in BT",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "checkforbalancedbinarytree": {
+    "id": "e6eeab90-9cd1-43cb-b082-ee3141f86908",
+    "title": "Check for balanced binary tree",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Loops"
+    ]
+  },
+  "diameterofbinarytree": {
+    "id": "c78858a2-687d-460b-b4d9-9f5832e78741",
+    "title": "Diameter of Binary Tree",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "checkiftwotreesareidenticalornot": {
+    "id": "8e3b3991-114e-417a-b0ad-aa141ab9a444",
+    "title": "Check if two trees are identical or not",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Control Flow"
+    ]
+  },
+  "zigzagorspiraltraversal": {
+    "id": "08cd9e7f-6e41-476f-8a91-0074c93299eb",
+    "title": "Zig Zag or Spiral Traversal",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "boundarytraversal": {
+    "id": "dd4ed069-b3df-47a3-992a-115b35bba114",
+    "title": "Boundary Traversal",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "verticalordertraversal": {
+    "id": "0789837a-b4ab-4f40-8a44-b2679b63d5fe",
+    "title": "Vertical Order Traversal",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "topviewofbt": {
+    "id": "a6460f1e-8b35-466d-ab85-105a14c3523a",
+    "title": "Top View of BT",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "bottomviewofbt": {
+    "id": "cfc0d7d5-e47d-4189-8b6a-e378ed0f271a",
+    "title": "Bottom view of BT",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "rightleftviewofbinarytree": {
+    "id": "1ab5b673-4ce8-4c0d-97fd-98dd990d8215",
+    "title": "Right/Left View of Binary Tree",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "symmetricbinarytree": {
+    "id": "beb34953-f2ab-4dca-905c-4ecf76b5eba6",
+    "title": "Symmetric Binary Tree",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "printroottoleafpathinbt": {
+    "id": "7efcc83e-991f-4cae-a1f4-6c98f8445091",
+    "title": "Print root to leaf path in BT",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "lcainbt": {
+    "id": "a9b52424-7ae8-472f-bbb0-f9e0b61c6473",
+    "title": "LCA in BT",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "maximumwidthofbt": {
+    "id": "b5a1391e-73b3-49d3-89f0-4d9749b96f10",
+    "title": "Maximum Width of BT",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "childrensumpropertyinbinarytree": {
+    "id": "be5f288b-87a7-4345-890c-05fb69108549",
+    "title": "Children Sum Property in Binary Tree",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "printallnodesatadistanceofkinbt": {
+    "id": "d5f0cf80-1a3e-4fac-9459-3ccd2333c891",
+    "title": "Print all nodes at a distance of K in BT",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "minimumtimetakentoburnthebtfromagivennode": {
+    "id": "7cf62540-a601-4d79-8d1c-d0018c6965e7",
+    "title": "Minimum time taken to burn the BT from a given Node",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "counttotalnodesinacompletebt": {
+    "id": "b76a892a-f0b5-4683-84e7-aa68e82ad3ad",
+    "title": "Count total nodes in a complete BT",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "requirementsneededtoconstructauniquebt": {
+    "id": "85ad85df-1ce1-46ee-bf04-4969339210cf",
+    "title": "Requirements needed to construct a unique BT",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "constructabtfrompreorderandinorder": {
+    "id": "91127427-6751-41a5-9cfe-686aee6e695c",
+    "title": "Construct a BT from Preorder and Inorder",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "constructthebinarytreefrompostorderandinordertraversal": {
+    "id": "b46593c5-1492-4da0-90d8-b91479e1e82f",
+    "title": "Construct the Binary Tree from Postorder and Inorder Traversal",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "serializeanddeserializebt": {
+    "id": "9abfa8e9-8b53-444b-9bfd-23969717caa1",
+    "title": "Serialize and De-serialize BT",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "morrispreordertraversalofabinarytree": {
+    "id": "c5f883de-2987-46b4-b3ee-ec21e55f804a",
+    "title": "Morris Preorder Traversal of a Binary Tree",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "morrisinordertraversalofabinarytree": {
+    "id": "180e55ce-ad0c-47d1-a22e-d05225c26df8",
+    "title": "Morris Inorder Traversal of a Binary Tree",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "flattenbinarytreetolinkedlist": {
+    "id": "c1e14739-b160-44e6-824a-d983a4667df3",
+    "title": "Flatten Binary Tree to Linked List",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "introductiontobst": {
+    "id": "0414f84b-1a71-43f9-a2a3-56e06632801b",
+    "title": "Introduction to BST",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "searchinabinarysearchtree": {
+    "id": "67ce4738-11ca-4cab-ada6-53fb59ead683",
+    "title": "Search in a Binary Search Tree",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "findminmaxinbst": {
+    "id": "1d6df4ed-4a2d-4a69-9a41-e74aa0e5e6ad",
+    "title": "Find Min/Max in BST",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "floorandceilinabst": {
+    "id": "a3d42214-6d2a-420e-ba34-a391fad3b12b",
+    "title": "Floor and Ceil in a BST",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "floorinabinarysearchtree": {
+    "id": "ba3d597e-1bc3-4909-a85e-57cdccb1459d",
+    "title": "Floor in a Binary Search Tree",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "insertagivennodeinbst": {
+    "id": "485f206f-46c6-4307-85b3-c32e068fe8c9",
+    "title": "Insert a given node in BST",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "deleteanodeinbst": {
+    "id": "01eac7f4-ac18-45eb-b54d-45bebc61830c",
+    "title": "Delete a node in BST",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "taylorseriesofsinx": {
+    "id": "77257c1b-a5b2-4d3e-b382-8d790e588b4a",
+    "title": "Taylor Series of sin(x)",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "kthsmallestandlargestelementinbst": {
+    "id": "eb376770-9765-4a70-9796-da87b3574711",
+    "title": "Kth Smallest and Largest element in BST",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "checkifatreeisabstornot": {
+    "id": "d56b5649-5145-45a3-a428-1c3257862bbd",
+    "title": "Check if a tree is a BST or not",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Control Flow"
+    ]
+  },
+  "lcainbst": {
+    "id": "784581d7-f9e1-46cc-b026-c305fc637f77",
+    "title": "LCA in BST",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "constructabstfromapreordertraversal": {
+    "id": "c428b229-3821-4be4-ab46-180a728a1469",
+    "title": "Construct a BST from a preorder traversal",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "inordersuccessorpredecessorinbst": {
+    "id": "edf47f57-7661-480e-90f6-701b45d84509",
+    "title": "Inorder Successor/Predecessor in BST",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "merge2bsts": {
+    "id": "38ce7a67-e0f6-4a00-9b68-83a8b49f695e",
+    "title": "Merge 2 BST's",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "twosuminbstcheckifthereexistsapairwithsumk": {
+    "id": "ddcae79e-694c-4dd8-a111-f6cb73689e86",
+    "title": "Two Sum In BST | Check if there exists a pair with Sum K",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Control Flow"
+    ]
+  },
+  "correctbstwithtwonodesswapped": {
+    "id": "67b6aac0-a2ef-4867-bcad-292556a9e2d1",
+    "title": "Correct BST with two nodes swapped",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "largestbstinbinarytree": {
+    "id": "75228173-74eb-4a39-a286-7c8895236d17",
+    "title": "Largest BST in Binary Tree",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "introductiontograph": {
+    "id": "32c0c786-e4df-4631-91a6-a3e71f0ffcc9",
+    "title": "Introduction to Graph",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "graphrepresentationc": {
+    "id": "579d4474-217b-462b-b271-7c447ae7e261",
+    "title": "Graph Representation | C++",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "digitcounter": {
+    "id": "88404a8a-ab43-46da-bbb6-ee38784081ea",
+    "title": "Digit Counter",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Loops"
+    ]
+  },
+  "graphrepresentationjava": {
+    "id": "fa2c973b-05af-400a-8f6a-8583ca3a2e1b",
+    "title": "Graph Representation | Java",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "connectedcomponents": {
+    "id": "dad0f937-6a05-44fb-9c7d-7b580840f4ec",
+    "title": "Connected Components",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "maximumxorwithanelementfromanarray": {
+    "id": "c12f2d13-1034-4475-8476-93e041daf685",
+    "title": "Maximum Xor with an element from an array",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "minimumnumberofbracketreversalstomakeanexpressionbalanced": {
+    "id": "9b5a1577-fd66-4bdb-b115-72f1450543aa",
+    "title": "Minimum number of bracket reversals to make an expression balanced",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "countandsay": {
+    "id": "6182a607-6f80-46a6-8715-cf6266a2675c",
+    "title": "Count and say",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "hashinginstringstheory": {
+    "id": "64507e19-36f9-492f-af8e-9b27ce0a5417",
+    "title": "Hashing In Strings | Theory",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "rabinkarpalgorithm": {
+    "id": "c49fcd84-5af0-447e-98e6-7e647c494a7b",
+    "title": "Rabin Karp Algorithm",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "zfunction": {
+    "id": "eff3bc6f-e95f-405f-8a53-a40abb51544e",
+    "title": "Z function",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "kmpalgorithmorlpsarray": {
+    "id": "8db21cbc-acd8-4130-9a70-01310cc88675",
+    "title": "KMP Algorithm or LPS array",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "shortestpalindrome": {
+    "id": "8fec93c3-f3fa-4c18-b1e9-827f4e604cb3",
+    "title": "Shortest Palindrome",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "longesthappyprefix": {
+    "id": "0ee8b2ac-4c9f-4499-a167-db8b4f3eab88",
+    "title": "Longest happy prefix",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "countpalindromicsubsequences": {
+    "id": "1b4c6772-8881-42c5-b9f0-ccb83147cbc9",
+    "title": "Count Palindromic Subsequences",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "traversaltechniques": {
+    "id": "92e677cd-691e-40fb-94e2-713010a702f5",
+    "title": "Traversal Techniques",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "dfs": {
+    "id": "ccca41c6-5599-4310-8ce1-60d7bde8251b",
+    "title": "DFS",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "numberofprovinces": {
+    "id": "1a1a108c-2f25-4862-a29d-01b686ff68f7",
+    "title": "Number of provinces",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "connectedcomponentsprobleminmatrix": {
+    "id": "330c4a7a-6ae6-4ecf-89ff-1fd4afcfb18a",
+    "title": "Connected Components Problem in Matrix",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "rottenoranges": {
+    "id": "aba02eda-e9a2-4181-9e03-b0f504ce18b0",
+    "title": "Rotten Oranges",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "floodfillalgorithm": {
+    "id": "f9697590-27e1-4d6c-8041-b717973f8e12",
+    "title": "Flood fill algorithm",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "cycledetectioninundirectedgraphbfs": {
+    "id": "1069effe-253e-4a09-a362-5ede21ec104d",
+    "title": "Cycle Detection in Undirected Graph (bfs)",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "detectacycleinanundirectedgraph": {
+    "id": "47f36167-a62d-479c-a4f8-c318d2c08afb",
+    "title": "Detect a cycle in an undirected graph",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "distanceofnearestcellhavingone": {
+    "id": "37ee5eaa-c204-4969-8c70-5feaf22a801d",
+    "title": "Distance of nearest cell having one",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "surroundedregions": {
+    "id": "03dce826-6fea-42dd-92b9-f198b6d82619",
+    "title": "Surrounded Regions",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "numberofenclaves": {
+    "id": "52ad4eae-f10c-4f4c-aef0-1a6ee9c7a481",
+    "title": "Number of enclaves",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "wordladderi": {
+    "id": "c58412c1-a210-46ae-94a4-ad739076ea1e",
+    "title": "Word ladder I",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "wordladderii": {
+    "id": "9cfa08a7-155a-4bcc-ada4-91cca86aeadb",
+    "title": "Word ladder II",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "numberofislands": {
+    "id": "3d99598f-7f09-4d76-a5f0-eb0321b26012",
+    "title": "Number of islands",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "bipartitegraphdfs": {
+    "id": "16c02e44-ff5b-4ed0-9130-35dd661fc5e2",
+    "title": "Bipartite Graph (DFS)",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "cycledetectionindirectedgraphdfs": {
+    "id": "b58a2136-75e8-4d4a-8dc1-0f7220ac32db",
+    "title": "Cycle Detection in Directed Graph (DFS)",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "toposort": {
+    "id": "d0a503fb-3ee3-48b7-868c-e615ffaf3b34",
+    "title": "Topo Sort",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "topologicalsortorkahnsalgorithm": {
+    "id": "3852d265-390f-4dc8-b186-4b8bb1f8ff47",
+    "title": "Topological sort or Kahn's algorithm",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "detectacycleinadirectedgraph": {
+    "id": "d21a8f04-bab8-46f7-8bf8-896db3f40422",
+    "title": "Detect a cycle in a directed graph",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "courseschedulei": {
+    "id": "9648249e-d5f0-4271-a0d8-e74dfa2f5dd6",
+    "title": "Course Schedule I",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "coursescheduleii": {
+    "id": "a5d56131-5f25-48b0-a867-c7def02556a1",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "findeventualsafestates": {
+    "id": "4fe28861-6fc2-4b3f-b725-fdf37554aaa7",
+    "title": "Find eventual safe states",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "aliendictionary": {
+    "id": "e7b76af4-878f-483a-a4aa-aff7f5600e6d",
+    "title": "Alien Dictionary",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "sumofdigitsofanumber": {
+    "id": "da2228a7-6f64-4457-8f3c-9c30b24d6f5a",
+    "title": "Sum of Digits of a Number",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Loops"
+    ]
+  },
+  "shortestpathinundirectedgraphwithunitweights": {
+    "id": "b366af88-a7da-435d-baa3-d9533fc22507",
+    "title": "Shortest path in undirected graph with unit weights",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "shortestpathindag": {
+    "id": "ced22374-2ff6-4d14-8bb7-238d59cc322c",
+    "title": "Shortest path in DAG",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "djisktrasalgorithm": {
+    "id": "f9aee91e-fcd3-486f-b65f-3c2de16d2a63",
+    "title": "Djisktra's Algorithm",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "whypriorityqueueisusedindjisktrasalgorithm": {
+    "id": "beda5ca2-321e-47d7-8617-ac029e541567",
+    "title": "Why priority Queue is used in Djisktra's Algorithm",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "shortestdistanceinabinarymaze": {
+    "id": "699dccd1-b256-470e-9db3-ae6c0d8833f5",
+    "title": "Shortest Distance in a Binary Maze",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "pathwithminimumeffort": {
+    "id": "8cdd4e77-d336-4d16-bd18-1db304e478f7",
+    "title": "Path with minimum effort",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Loops"
+    ]
+  },
+  "cheapestflightwithinkstops": {
+    "id": "fd437c1a-8310-47c9-befe-6d564b071694",
+    "title": "Cheapest flight within K stops",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "networkdelaytime": {
+    "id": "61a483d9-c25d-4f10-a29d-1bddfd749298",
+    "title": "Network Delay Time",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": []
+  },
+  "numberofwaystoarriveatdestination": {
+    "id": "87e6c7b4-baff-452c-bc98-56eda79cf152",
+    "title": "Number of ways to arrive at destination",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "minimummultiplicationstoreachend": {
+    "id": "2ee53062-8e78-401a-8115-1fd446b9e773",
+    "title": "Minimum multiplications to reach end",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "bellmanfordalgorithm": {
+    "id": "a99b65d6-4985-4538-a4a4-55c262a7d792",
+    "title": "Bellman Ford Algorithm",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Loops"
+    ]
+  },
+  "floydwarshallalgorithm": {
+    "id": "40d9578c-2822-42df-9891-0578c8e7550c",
+    "title": "Floyd warshall algorithm",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "findthecitywiththesmallestnumberofneighbors": {
+    "id": "3c0fe8a5-0b86-4ad2-9759-2b59d093b538",
+    "title": "Find the city with the smallest number of neighbors",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "msttheory": {
+    "id": "6c3c230d-24ce-4d38-807c-1003725a9184",
+    "title": "MST theory",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Binary Tree"
+    ]
+  },
+  "primsalgorithm": {
+    "id": "41e506e2-d404-48a3-9dc7-55916cf30dc2",
+    "title": "Prim's Algorithm",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Binary Tree"
+    ]
+  },
+  "findthemstweight": {
+    "id": "4babc14e-6652-48a9-b2be-2c4be6cef55c",
+    "title": "Find the MST weight",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Binary Tree"
+    ]
+  },
+  "numberofoperationstomakenetworkconnected": {
+    "id": "90bc7ff8-0fc7-4347-b5a1-44d8f129c31e",
+    "title": "Number of operations to make network connected",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Binary Tree"
+    ]
+  },
+  "moststonesremovedwithsameroworcolumn": {
+    "id": "1d08c5d9-913f-4112-b71c-0fd879192e4b",
+    "title": "Most stones removed with same row or column",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Binary Tree"
+    ]
+  },
+  "accountsmerge": {
+    "id": "a4a3d8b3-0ad6-4bbc-82bd-dcbc9e04d193",
+    "title": "Accounts merge",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Binary Tree"
+    ]
+  },
+  "numberofislandsii": {
+    "id": "41d0aa44-ecc7-4f34-8f36-a1f8697d2373",
+    "title": "Number of islands II",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Binary Tree"
+    ]
+  },
+  "makingalargeisland": {
+    "id": "5a8dfaa3-908b-449c-b305-0d5c37aeea11",
+    "title": "Making a large island",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Binary Tree"
+    ]
+  },
+  "firstandlastdigitfinder": {
+    "id": "5af05fa8-117b-4ccb-a8ed-7f01bc6065c6",
+    "title": "First and Last Digit Finder",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "swiminrisingwater": {
+    "id": "a2d13cd2-6d99-49c1-87c2-a6e8bfacbca1",
+    "title": "Swim in Rising Water",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Binary Tree"
+    ]
+  },
+  "bridgesingraph": {
+    "id": "f450a0e3-7a58-4ba9-8347-0485fd33a61a",
+    "title": "Bridges in graph",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "articulationpointingraph": {
+    "id": "9e7cc8db-c411-471c-8c0e-91b7d82ba230",
+    "title": "Articulation point in graph",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "kosarajusalgorithm": {
+    "id": "35e78af5-cf56-4494-a3ce-f5024bc50b5e",
+    "title": "Kosaraju's algorithm",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": []
+  },
+  "introductiontodp": {
+    "id": "f8cb1c1f-6f12-4bc1-a7b4-42df9eda2e8f",
+    "title": "Introduction to DP",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "reverseastring": {
+    "id": "753ed54d-3cce-4306-9c80-9c2be1b8827c",
+    "title": "Reverse a String",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Strings"
+    ]
+  },
+  "findthemiddleoflinkedlist": {
+    "id": "3c0726bf-1b24-4d2d-b98c-afadf80efd11",
+    "title": "Find the Middle of Linked List",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Linked List"
+    ]
+  },
+  "evenoroddclassifier": {
+    "id": "14dd510b-75a4-4eca-9efd-d8c647eaa55a",
+    "title": "Even or Odd Classifier",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "electricitybillcalculator": {
+    "id": "fe301a6a-bf69-4df1-ab49-f1d956cc60a4",
+    "title": "Electricity Bill Calculator",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "studentgradeclassifier": {
+    "id": "6fe27712-a945-4b5e-905e-ec1bddf220d4",
+    "title": "Student Grade Classifier",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "taxbracketcalculator": {
+    "id": "a62893a3-31bb-468a-ae0a-4936e6ad54b9",
+    "title": "Tax Bracket Calculator",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "datevaliditychecker": {
+    "id": "5ff5a07f-ed0e-4c32-87e0-0a025162e0e1",
+    "title": "Date Validity Checker",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "quadraticequationroots": {
+    "id": "8f78fd92-baeb-4037-a563-a0ece8ea85ac",
+    "title": "Quadratic Equation Roots",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "climbingstairs": {
+    "id": "fc58f3ef-d222-4702-b97d-1390bbaeb74e",
+    "title": "Climbing stairs",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming",
+      "Math"
+    ]
+  },
+  "frogjump": {
+    "id": "fe3ade71-dfb9-4d3c-ab61-090592be47bd",
+    "title": "Frog Jump",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "frogjumpwithkdistances": {
+    "id": "d3f31f69-aa69-4054-872d-29aa379eb098",
+    "title": "Frog jump with K distances",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "maximumsumofnonadjacentelements": {
+    "id": "a374efb5-4cac-404c-b59f-c0915f3b5dbc",
+    "title": "Maximum sum of non adjacent elements",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "houserobber": {
+    "id": "99a27338-b3f4-4172-9c1e-d121af4116c8",
+    "title": "House robber",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "ninjastraining": {
+    "id": "c02c383a-2263-427e-81cc-38af34445e66",
+    "title": "Ninja's training",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "griduniquepathsdpongridsdp8": {
+    "id": "151ca845-5bdb-4ceb-a681-24e7d45a42d6",
+    "title": "Grid Unique Paths : DP on Grids (DP8)",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "uniquepathsii": {
+    "id": "139e2fa1-e814-4ef7-a47f-887fc20ce709",
+    "title": "Unique paths II",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Dynamic Programming"
+    ]
+  },
+  "minimumfallingpathsum": {
+    "id": "f124d8f1-7699-4717-b7b2-2fcd9c4385eb",
+    "title": "Minimum Falling Path Sum",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "triangle": {
+    "id": "07782697-3567-4519-8aad-f5f5b49b7b76",
+    "title": "Triangle",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "ninjaandhisfriends": {
+    "id": "1a0dbc1e-b88c-45e8-a591-f292b634f1c6",
+    "title": "Ninja and his Friends",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "sumofdivisorsupton": {
+    "id": "728e0691-1f9a-4f9e-b35e-8f23332cbd74",
+    "title": "Sum of Divisors up to N",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "subsetsumequaltotargetdp14": {
+    "id": "ae0a56ba-c0b0-45ed-b61a-9f159d22fcf3",
+    "title": "Subset sum equal to target (DP- 14)",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "partitionequalsubsetsum": {
+    "id": "21107002-3c73-4571-9213-52021bdd06b4",
+    "title": "Partition equal subset sum",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "partitionasetintotwosubsetswithminimumabsolutesumdifference": {
+    "id": "55b8db84-d6f7-4fe9-9760-5335d0bcce5c",
+    "title": "Partition a set into two subsets with minimum absolute sum difference",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming",
+      "Control Flow"
+    ]
+  },
+  "countsubsetswithsumk": {
+    "id": "abf27841-3c4a-4bf6-8819-83c51a1e5007",
+    "title": "Count subsets with sum K",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "countpartitionswithgivendifference": {
+    "id": "451bf767-9a89-482b-b4cf-0ffce0f2fc0e",
+    "title": "Count partitions with given difference",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming",
+      "Control Flow"
+    ]
+  },
+  "minimumcoinsdp20": {
+    "id": "b7646a61-5d7c-4a38-a0d3-767ad69668ce",
+    "title": "Minimum Coins (DP - 20)",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "targetsum": {
+    "id": "a36b677f-af68-4be4-9253-6a8d9c91457b",
+    "title": "Target sum",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "coinchange2dp22": {
+    "id": "f1994111-74f8-46b7-9c98-bece18066975",
+    "title": "Coin Change 2 (DP - 22)",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "unboundedknapsack": {
+    "id": "525ee568-99f8-4efa-9fa6-93a47a84ea1d",
+    "title": "Unbounded knapsack",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "rodcuttingproblemdp24": {
+    "id": "9e35ecc5-3271-4b4e-aacf-a3c915950d8a",
+    "title": "Rod Cutting Problem | (DP - 24)",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "positivenegativeorzero": {
+    "id": "6c26c21c-056e-4074-8ded-8b5f2c13277d",
+    "title": "Positive, Negative or Zero",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "longestcommonsubsequence": {
+    "id": "af3f62f4-b39b-40ad-8500-68c428749e51",
+    "title": "Longest common subsequence",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Strings",
+      "Dynamic Programming"
+    ]
+  },
+  "printlongestcommonsubsequencedp26": {
+    "id": "18e7803d-338e-456f-b5a4-4fe2b8a789b8",
+    "title": "Print Longest Common Subsequence | (DP - 26)",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Strings",
+      "Dynamic Programming"
+    ]
+  },
+  "longestcommonsubstring": {
+    "id": "fd166c46-a61d-4ac6-82d0-159a8fedf2c7",
+    "title": "Longest common substring",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Strings",
+      "Dynamic Programming"
+    ]
+  },
+  "longestpalindromicsubsequence": {
+    "id": "5a06beac-7fea-42c0-bde0-a99d45cf5dbd",
+    "title": "Longest palindromic subsequence",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Strings",
+      "Dynamic Programming"
+    ]
+  },
+  "minimuminsertionstomakestringpalindromedp29": {
+    "id": "c2e6a0ce-56c5-44b8-8867-cde53b0dce68",
+    "title": "Minimum insertions to make string palindrome | DP-29",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Strings",
+      "Dynamic Programming"
+    ]
+  },
+  "minimuminsertionsordeletionstoconvertstringatob": {
+    "id": "690de75b-1f28-42b4-aad0-dc729ac8de78",
+    "title": "Minimum insertions or deletions to convert string A to B",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Strings",
+      "Dynamic Programming"
+    ]
+  },
+  "shortestcommonsupersequence": {
+    "id": "ddd1a0ad-95cc-4681-babd-f8ece363b9b8",
+    "title": "Shortest common supersequence",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Strings",
+      "Dynamic Programming"
+    ]
+  },
+  "distinctsubsequences": {
+    "id": "a0d0f6c8-6907-42a2-9131-88de6b351fa5",
+    "title": "Distinct subsequences",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Strings",
+      "Dynamic Programming"
+    ]
+  },
+  "editdistance": {
+    "id": "d1e81ae6-a73c-4d20-821c-853fdc2766ce",
+    "title": "Edit distance",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Strings",
+      "Dynamic Programming"
+    ]
+  },
+  "wildcardmatching": {
+    "id": "b8af0841-31a0-4daa-9ac5-c7cfd1c49a9a",
+    "title": "Wildcard matching",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Strings",
+      "Dynamic Programming"
+    ]
+  },
+  "besttimetobuyandsellstock": {
+    "id": "a9a67e22-d4b2-4ffb-a716-292b18fc2ab7",
+    "title": "Best time to buy and sell stock",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "besttimetobuyandsellstockii": {
+    "id": "4f614ba5-9851-47a8-94e8-275f08958c65",
+    "title": "Best time to buy and sell stock II",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "besttimetobuyandsellstockiii": {
+    "id": "e0249fe7-b2a8-4d73-a7ac-57e19dc59d70",
+    "title": "Best time to buy and sell stock III",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "besttimetobuyandsellstockiv": {
+    "id": "0182460b-f985-43eb-97c7-52b5e058c702",
+    "title": "Best time to buy and sell stock IV",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "besttimetobuyandsellstockwithcooldown": {
+    "id": "ed7e14b2-85c4-477f-ba97-36c516246077",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "besttimetobuyandsellstockwithtransactionfees": {
+    "id": "f616554b-0e59-4e19-80ae-eb378770b050",
+    "title": "Best time to buy and sell stock with transaction fees",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "longestincreasingsubsequence": {
+    "id": "c0d480b9-435b-4ab8-b80d-0e3fd02ccee4",
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "printlongestincreasingsubsequence": {
+    "id": "d6d81408-37d7-47a0-ac20-088e88106d24",
+    "title": "Print Longest Increasing Subsequence",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "longestincreasingsubsequencedp43": {
+    "id": "425fcd59-c4a7-4106-b473-13db9e591a73",
+    "title": "Longest Increasing Subsequence |(DP-43)",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "largestdivisiblesubset": {
+    "id": "97c67ba3-5ece-4093-8f3d-e5b5001d9296",
+    "title": "Largest Divisible Subset",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "longeststringchain": {
+    "id": "0aeacae2-e4fa-45c2-8f4c-b3e94ca2cbe1",
+    "title": "Longest String Chain",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "minimumoftwonumbers": {
+    "id": "99f4c47b-3411-4983-b652-9a072550c283",
+    "title": "Minimum of Two Numbers",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "longestbitonicsubsequence": {
+    "id": "ebd0f961-f334-41dc-a9b1-ab17708edbf4",
+    "title": "Longest Bitonic Subsequence",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "numberoflongestincreasingsubsequences": {
+    "id": "44edd6a0-83cf-4b47-a135-d48bd2aaa532",
+    "title": "Number of Longest Increasing Subsequences",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "matrixchainmultiplication": {
+    "id": "bd1f9190-b262-496a-9d91-773b3aa0aee5",
+    "title": "Matrix chain multiplication",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "matrixchainmultiplicationbottomupdp49": {
+    "id": "3945a311-b1da-4f17-9de6-5a4a1ecb94af",
+    "title": "Matrix Chain Multiplication | Bottom-Up|(DP-49)",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "minimumcosttocutthestick": {
+    "id": "fa75aba7-af01-4b58-bada-e0799f8d6745",
+    "title": "Minimum cost to cut the stick",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "burstballoons": {
+    "id": "a8edcfb6-068d-4020-a7f7-ff895934671f",
+    "title": "Burst balloons",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "differentwaystoevaluateabooleanexpression": {
+    "id": "fc3404e3-c018-49dc-aae1-14b73f6c7b61",
+    "title": "Different Ways to Evaluate a Boolean Expression",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming",
+      "Control Flow"
+    ]
+  },
+  "inputoutput": {
+    "id": "a89e6e21-68e3-4d72-92e9-7477afbd9409",
+    "title": "Input Output",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax"
+    ]
+  },
+  "partitionarrayformaximumsum": {
+    "id": "9d35414f-b820-4480-bb1c-30e6e411dc70",
+    "title": "Partition Array for Maximum Sum",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming",
+      "Loops"
+    ]
+  },
+  "maximumrectangleareawithall1sdp55": {
+    "id": "e05dac0c-22e4-48cd-9df1-49e7ce7d4057",
+    "title": "Maximum Rectangle Area with all 1's|(DP-55)",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "employeesalarycalculator": {
+    "id": "77b503ff-1b12-492b-b71a-efede4ace0e6",
+    "title": "Employee Salary Calculator",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "weekdayselector": {
+    "id": "0a090d3f-5db0-4eeb-855d-0ab218d0e542",
+    "title": "Weekday Selector",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "monthnameselector": {
+    "id": "c2c0f29a-a0c5-4d86-9c1f-5903101875d7",
+    "title": "Month Name Selector",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "arithmeticoperatorselector": {
+    "id": "cc19cb92-af78-4e24-b07d-12d379844520",
+    "title": "Arithmetic Operator Selector",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "gradecommentselector": {
+    "id": "5604b4e9-8ff6-482a-b56a-5ab3b7d21cda",
+    "title": "Grade Comment Selector",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "trafficlightselector": {
+    "id": "7a105d9a-edba-45e0-950f-b4545c400fc8",
+    "title": "Traffic Light Selector",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "seasonoftheyearfinder": {
+    "id": "21d358eb-a016-41f8-9720-61a7d2a04ac1",
+    "title": "Season of the Year Finder",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "vowelorconsonantchecker": {
+    "id": "79cf46a6-f52e-48d2-a363-20fc7cb07415",
+    "title": "Vowel or Consonant Checker",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "conversionunitselector": {
+    "id": "321fd286-e3e3-4005-8a94-a2ecd36928c0",
+    "title": "Conversion Unit Selector",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "banktransactionmenu": {
+    "id": "375aeb7e-05fa-4fec-b3e2-08b99ef3fe19",
+    "title": "Bank Transaction Menu",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "pizzatoppingpricecalculator": {
+    "id": "009c1dbe-b398-4020-8cd1-81db354584f4",
+    "title": "Pizza Topping Price Calculator",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "customcommandinterpreter": {
+    "id": "5aaad731-ad47-48b0-ba6a-aea1de302d4b",
+    "title": "Custom Command Interpreter",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "romannumeralswitchparser": {
+    "id": "3c14213f-e682-4a6b-87a8-884e97157647",
+    "title": "Roman Numeral Switch Parser",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "morsecodecharacterconverter": {
+    "id": "55a8cb10-db24-4f77-8771-af6f4681b5b7",
+    "title": "Morse Code Character Converter",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "multilevelatmmenuflow": {
+    "id": "685cf692-512c-47d5-9295-37c0984e6659",
+    "title": "Multi-Level ATM Menu Flow",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "nestedconfigselector": {
+    "id": "1b4ad6f3-0fca-4c60-bd9a-808c2fa42e04",
+    "title": "Nested Config Selector",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "printevennumberston": {
+    "id": "3a981700-a745-4abb-8dc1-cadac6477554",
+    "title": "Print Even Numbers to N",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "calculatenthpower": {
+    "id": "81acb398-270f-4161-b29f-eedeb4d72c9a",
+    "title": "Calculate Nth Power",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "factorialfinder": {
+    "id": "0ac3ff44-cc4a-4457-bb9a-5b97f83d2cb3",
+    "title": "Factorial Finder",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "printmultiplicationtable": {
+    "id": "21e73a14-8a2f-4fc4-a6fe-665a95d7e336",
+    "title": "Print Multiplication Table",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "countprimenumbersinrange": {
+    "id": "938bbf34-6d3c-4a1d-8818-663d1b05f51c",
+    "title": "Count Prime Numbers in Range",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "checkifanumberisperfect": {
+    "id": "4585609d-983c-4b4e-be96-7a62da302736",
+    "title": "Check if a Number is Perfect",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Loops"
+    ]
+  },
+  "sumofarithmeticprogression": {
+    "id": "493dd10f-601f-43e0-a8b8-3769470c4d8d",
+    "title": "Sum of Arithmetic Progression",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Loops"
+    ]
+  },
+  "findgcdoftwonumbers": {
+    "id": "3637324e-c5b4-4e11-9fe8-7b68f8d26822",
+    "title": "Find GCD of Two Numbers",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "printntermsofcustomseries": {
+    "id": "75ccebf0-6234-439c-8dc5-837012081c7d",
+    "title": "Print N Terms of Custom Series",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "findallperfectnumbers": {
+    "id": "b0c5cc25-e5d0-4a4d-bc8e-56c52c638176",
+    "title": "Find All Perfect Numbers",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Loops"
+    ]
+  },
+  "printprimefactors": {
+    "id": "ed113a9a-f8d0-43bf-91c6-aa507741d6c2",
+    "title": "Print Prime Factors",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Loops"
+    ]
+  },
+  "findlcmofnnumbers": {
+    "id": "82156f2f-c2aa-493d-b72e-0ada08fc6fb2",
+    "title": "Find LCM of N Numbers",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Loops"
+    ]
+  },
+  "validateinputuntilpositive": {
+    "id": "299572cc-a77b-4615-9682-4d9dde67f749",
+    "title": "Validate Input until Positive",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "countmultiplesbelowtarget": {
+    "id": "80e300cf-ac0e-4fe8-ad56-df061650f167",
+    "title": "Count Multiples below Target",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "reverseintegerdigits": {
+    "id": "e8adda50-3e15-40e3-a0f8-e819124f68d7",
+    "title": "Reverse Integer Digits",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "decimaltobinaryconverter": {
+    "id": "17531215-86a4-4bfc-8483-89ecf3dbcee1",
+    "title": "Decimal to Binary Converter",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "checkarmstrongnumber": {
+    "id": "278d9114-6a00-4f28-a2be-438454823ca2",
+    "title": "Check Armstrong Number",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "gcdeuclideansubtraction": {
+    "id": "1557fb31-a36b-4e1b-94e8-aff76d272620",
+    "title": "GCD Euclidean subtraction",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "generatefibonaccibelown": {
+    "id": "edcbd0d1-8c0c-4d3f-b8ea-d7b899432554",
+    "title": "Generate Fibonacci below N",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Recursion",
+      "Math"
+    ]
+  },
+  "collatzconjecturesteps": {
+    "id": "f9a98e51-a7fd-436c-a8d4-b5184890195f",
+    "title": "Collatz Conjecture Steps",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "binarytohexadecimal": {
+    "id": "30ab967a-e556-4f8b-8192-5fc4ad9815e9",
+    "title": "Binary to Hexadecimal",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "largestdigitinlargeinteger": {
+    "id": "fe9ff860-f9d4-4283-ac5e-ff785afa1bd1",
+    "title": "Largest Digit in Large Integer",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "happynumberchecker": {
+    "id": "5746c146-95c4-4ee0-a4cc-87dbf2d6714e",
+    "title": "Happy Number Checker",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "runlengthdigitencoding": {
+    "id": "b9a94bc0-a963-49dc-aec9-f74cac79b1d0",
+    "title": "Run-Length Digit Encoding",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "patternsquarestarblock": {
+    "id": "4e3a8bb3-94d2-48c9-9ae2-647dccd922b7",
+    "title": "Pattern: Square Star Block",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Patterns"
+    ]
+  },
+  "patternrightangledtriangle": {
+    "id": "6fa61c3a-c8f9-4ea6-bfcd-1957c84ee7e1",
+    "title": "Pattern: Right-Angled Triangle",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Patterns"
+    ]
+  },
+  "patternhorizontalstargroups": {
+    "id": "d207e7d2-f442-4275-aa52-e791a156106c",
+    "title": "Pattern: Horizontal Star Groups",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Patterns"
+    ]
+  },
+  "patterndecreasingnumberrow": {
+    "id": "d9dbdb7c-e563-4bca-9b2b-564d5f703d8b",
+    "title": "Pattern: Decreasing Number Row",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Patterns"
+    ]
+  },
+  "patternleftstaircase": {
+    "id": "3b61bc0b-ab13-4f16-b4f8-2dacbfc85632",
+    "title": "Pattern: Left Staircase",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Patterns"
+    ]
+  },
+  "patterninvertedtriangle": {
+    "id": "2cedbab0-ca2d-49e1-a4e9-64c74173a06a",
+    "title": "Pattern: Inverted Triangle",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Patterns"
+    ]
+  },
+  "patternhollowrectangle": {
+    "id": "42a38496-5594-470e-ba8c-d7ea98b8b9f7",
+    "title": "Pattern: Hollow Rectangle",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Patterns"
+    ]
+  },
+  "patternnumberpyramids": {
+    "id": "220ade08-d3c9-4dcd-ab71-c5c089ef6031",
+    "title": "Pattern: Number Pyramids",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Patterns"
+    ]
+  },
+  "patternalternatingbinary": {
+    "id": "bf333c04-91c0-4ddc-926c-8e19c379fe3d",
+    "title": "Pattern: Alternating Binary",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Patterns"
+    ]
+  },
+  "patternletterdiamondborder": {
+    "id": "90e3223e-4f18-4084-a070-c82a62f904a7",
+    "title": "Pattern: Letter Diamond Border",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Patterns"
+    ]
+  },
+  "patternsymmetricdiamond": {
+    "id": "be6ba9a2-b017-47fd-8eaa-ef81b44a2382",
+    "title": "Pattern: Symmetric Diamond",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Patterns"
+    ]
+  },
+  "patternpascaltrianglerows": {
+    "id": "c09c0f0d-38f4-4fb6-8f11-b5227da66a8d",
+    "title": "Pattern: Pascal Triangle Rows",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Patterns"
+    ]
+  },
+  "patternhollowdiamondoutline": {
+    "id": "dad3439d-7b52-4939-a62c-8a7ce9eebc36",
+    "title": "Pattern: Hollow Diamond Outline",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Patterns"
+    ]
+  },
+  "patternspiralmatrixpattern": {
+    "id": "585d3ec6-41d5-4579-b011-42ce9d807576",
+    "title": "Pattern: Spiral Matrix Pattern",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Patterns"
+    ]
+  },
+  "patternzigzagstarborder": {
+    "id": "3f9747b2-3620-4d84-9c7b-1a0a0e9de12e",
+    "title": "Pattern: Zigzag Star Border",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Patterns"
+    ]
+  },
+  "valueswapperfunction": {
+    "id": "183f92b8-ebea-4a37-ba19-1210a0758b45",
+    "title": "Value Swapper Function",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax"
+    ]
+  },
+  "squareofanumberfunction": {
+    "id": "c3b37c8e-0c46-44a3-8c4a-65c0f5b9ad6e",
+    "title": "Square of a Number Function",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax"
+    ]
+  },
+  "centigradetofahrenheit": {
+    "id": "711894a0-ffe6-4718-aa9f-4c9c5f175934",
+    "title": "Centigrade to Fahrenheit",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "areaofcirclecalculator": {
+    "id": "c4ee71d4-d4bb-4313-97af-b814b846268d",
+    "title": "Area of Circle Calculator",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "maximumoftwonumbers": {
+    "id": "901f1aa5-23b9-4731-b59b-a9710eb9d8bd",
+    "title": "Maximum of Two Numbers",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "calculatenprandncr": {
+    "id": "98283b4c-f1fe-4316-b76d-ca214b75b775",
+    "title": "Calculate nPr and nCr",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "checkprimefunctionwrapper": {
+    "id": "3d650845-90f9-4eb4-9f04-86cb69e9446c",
+    "title": "Check Prime Function wrapper",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "arrayaveragefunction": {
+    "id": "a1590c71-7579-408c-a22e-31b2826a5715",
+    "title": "Array Average Function",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax"
+    ]
+  },
+  "gcdandlcmdualoutput": {
+    "id": "7c37eab3-74b4-4f31-9866-61b324936e41",
+    "title": "GCD and LCM dual output",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "compoundinterestfunction": {
+    "id": "c5d080ff-771b-4bd2-ab66-343564466cb1",
+    "title": "Compound Interest Function",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax"
+    ]
+  },
+  "chainedfunctioncalculator": {
+    "id": "3445677d-6abc-41f0-945b-14619fe07166",
+    "title": "Chained Function Calculator",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Control Flow"
+    ]
+  },
+  "matrixtransposefunction": {
+    "id": "90a54569-dee6-4a42-9097-86f4993d960a",
+    "title": "Matrix Transpose Function",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax"
+    ]
+  },
+  "stringpalindromehelper": {
+    "id": "13717a82-fb3f-4fa7-9941-ff454f8223f2",
+    "title": "String Palindrome Helper",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax"
+    ]
+  },
+  "primefactorizationarray": {
+    "id": "dc34a9b8-11ef-476e-9dfa-29e840a77890",
+    "title": "Prime Factorization Array",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax",
+      "Loops"
+    ]
+  },
+  "customarraysorthelper": {
+    "id": "45cc6a1b-702b-4c1f-afc1-f808868d9544",
+    "title": "Custom Array Sort Helper",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Basic Syntax"
+    ]
+  },
+  "recursivefactorial": {
+    "id": "064bb758-3787-4cba-b24c-53da305c029c",
+    "title": "Recursive Factorial",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Recursion",
+      "Basic Syntax"
+    ]
+  },
+  "recursivesumofnnumbers": {
+    "id": "4258ab64-486b-474f-8ab1-821e6b922654",
+    "title": "Recursive Sum of N Numbers",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Recursion",
+      "Basic Syntax"
+    ]
+  },
+  "recursiveprint1ton": {
+    "id": "231f5ce4-6c47-4fcb-967a-4c38d414387e",
+    "title": "Recursive Print 1 to N",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Recursion",
+      "Basic Syntax"
+    ]
+  },
+  "recursivepowercalculation": {
+    "id": "c439cf1d-ee2b-4d9e-b07b-38d94b8990e1",
+    "title": "Recursive Power Calculation",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Recursion",
+      "Basic Syntax"
+    ]
+  },
+  "recursivedigitsum": {
+    "id": "66e891b7-f985-49fd-9f4c-b69935a4a88e",
+    "title": "Recursive Digit Sum",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Recursion",
+      "Basic Syntax"
+    ]
+  },
+  "recursivestringreversal": {
+    "id": "ea7d2532-7361-4404-8369-1f6e70466215",
+    "title": "Recursive String Reversal",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Recursion",
+      "Basic Syntax"
+    ]
+  },
+  "recursivebinarysearch": {
+    "id": "4cb6a1bf-724d-400d-bc35-60b1f8593fbf",
+    "title": "Recursive Binary Search",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "recursivefibonaccinumber": {
+    "id": "7d210184-59b3-47e2-bb05-5c39d35b919c",
+    "title": "Recursive Fibonacci Number",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Recursion",
+      "Math"
+    ]
+  },
+  "recursivegcdcalculator": {
+    "id": "6b8a877b-0fa9-4be5-a783-5e66c6f4d954",
+    "title": "Recursive GCD Calculator",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "recursivearrayelements": {
+    "id": "47127a09-8dbd-49db-92be-040dadfe63b0",
+    "title": "Recursive Array Elements",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Recursion",
+      "Basic Syntax"
+    ]
+  },
+  "towerofhanoisteps": {
+    "id": "47b18212-5ec8-408e-912c-30bd733f9fb7",
+    "title": "Tower of Hanoi Steps",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Recursion",
+      "Basic Syntax"
+    ]
+  },
+  "recursivepermutations": {
+    "id": "ce461e80-afce-4375-9d70-d10e1a361db4",
+    "title": "Recursive Permutations",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Recursion",
+      "Basic Syntax"
+    ]
+  },
+  "recursivesubsetsum": {
+    "id": "e26940ee-e777-4c9d-8f75-e23717ccec0c",
+    "title": "Recursive Subset Sum",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Recursion",
+      "Basic Syntax"
+    ]
+  },
+  "recursivebinarybuilder": {
+    "id": "24f1dce7-53d6-4f26-8d6d-1349e47bc8cc",
+    "title": "Recursive Binary Builder",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Recursion",
+      "Basic Syntax"
+    ]
+  },
+  "recursivemazesolver": {
+    "id": "8410e505-0681-46c9-9e5a-6ce5c856c7ad",
+    "title": "Recursive Maze Solver",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Recursion",
+      "Basic Syntax"
+    ]
+  },
+  "regularexpressionmatching": {
+    "id": "9564d8d8-8d83-4e7d-a962-c4f9478b628e",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "containerwithmostwater": {
+    "id": "e68ebaa6-e346-4751-99c3-0181db9b041a",
+    "title": "Container With Most Water",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "integertoroman": {
+    "id": "0a5bdf6a-4c27-4722-adfd-aa613fea8bfe",
+    "title": "Integer to Roman",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "3sumclosest": {
+    "id": "009e72c3-acbf-4983-a7a8-91337a84efef",
+    "title": "3Sum Closest",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "removenthnodefromendoflist": {
+    "id": "330895d2-8383-4cb5-8bb1-9953d7de4f0a",
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "validparentheses": {
+    "id": "4e7fec5c-3795-41a1-9833-3ea6e65fb1fa",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Strings",
+      "Stack"
+    ]
+  },
+  "mergetwosortedlists": {
+    "id": "ba2f26fc-5fa2-4e30-a7ae-2fc498925517",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "swapnodesinpairs": {
+    "id": "b494df57-9162-4ec7-8324-b45130241a75",
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reversenodesinkgroup": {
+    "id": "c366a6ee-4ba9-4947-b9c1-3d55571f4095",
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "removeelement": {
+    "id": "29e95f09-aa3a-42f6-a5b8-148eaba452a8",
+    "title": "Remove Element",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "findtheindexofthefirstoccurrenceinastring": {
+    "id": "dbbc69af-9b2e-47f3-b33e-2d02d0d79e71",
+    "title": "Find the Index of the First Occurrence in a String",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "dividetwointegers": {
+    "id": "37946860-23f2-402d-86a2-618ada1b6862",
+    "title": "Divide Two Integers",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "substringwithconcatenationofallwords": {
+    "id": "aa76bcb1-30f5-4893-97e0-3b6e97bfdd49",
+    "title": "Substring with Concatenation of All Words",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "longestvalidparentheses": {
+    "id": "efdc24ef-5b27-4e15-ad5e-39953fb0264f",
+    "title": "Longest Valid Parentheses",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Strings",
+      "Stack"
+    ]
+  },
+  "searchinrotatedsortedarray": {
+    "id": "c7015eb7-ce96-467f-93ed-773fcd49d925",
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "findfirstandlastpositionofelementinsortedarray": {
+    "id": "b4679896-ac64-47f9-81fc-be1b6bf6a2ac",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "validsudoku": {
+    "id": "83dab70d-f340-4f7c-8b64-063b940e041f",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "firstmissingpositive": {
+    "id": "9c6ba10f-c855-4346-a5e8-062a09df23f5",
+    "title": "First Missing Positive",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "multiplystrings": {
+    "id": "5c099c89-f457-473a-8e1c-bf130f3b826d",
+    "title": "Multiply Strings",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "permutations": {
+    "id": "e9d6dd51-11d0-4e60-84e3-a699d080d427",
+    "title": "Permutations",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "permutationsii": {
+    "id": "9fbc61e9-9a51-4e57-8aa6-cecc2172cf51",
+    "title": "Permutations II",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "rotateimage": {
+    "id": "63afda0c-d45b-47dc-b4ce-c14e64f41204",
+    "title": "Rotate Image",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "groupanagrams": {
+    "id": "f03cbb2d-e286-4f40-a33b-e3a2dcb5d075",
+    "title": "Group Anagrams",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "nqueens": {
+    "id": "616fbc8d-fd28-4ec4-80df-ec141ecddd27",
+    "title": "N-Queens",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "nqueensii": {
+    "id": "390d9b0d-9e1e-48fe-9b04-5708738809b7",
+    "title": "N-Queens II",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "maximumsubarray": {
+    "id": "0f3675e1-3a28-4436-a65b-6b727f994991",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Dynamic Programming"
+    ]
+  },
+  "spiralmatrix": {
+    "id": "c4cf44b0-7a45-4307-ad27-d5016d486e40",
+    "title": "Spiral Matrix",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "jumpgame": {
+    "id": "004edf93-af06-4ee0-89aa-153ef1951013",
+    "title": "Jump Game",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "lengthoflastword": {
+    "id": "7bc6d651-709e-4c4b-b0a3-7f41cd037b3f",
+    "title": "Length of Last Word",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "spiralmatrixii": {
+    "id": "57f4ee72-6d0f-45c5-9988-b45094bbdda0",
+    "title": "Spiral Matrix II",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "permutationsequence": {
+    "id": "801dcbbc-0ff3-4487-89b2-8e021228ea6b",
+    "title": "Permutation Sequence",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "rotatelist": {
+    "id": "0335fcee-0434-4b66-b04f-f77531672171",
+    "title": "Rotate List",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "uniquepaths": {
+    "id": "69829a86-7be1-452e-86af-c8207b6c2e38",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "minimumpathsum": {
+    "id": "c2d4db8b-25d3-407d-a1b6-f82e7d9c3ae3",
+    "title": "Minimum Path Sum",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "validnumber": {
+    "id": "4aa1f69f-6fe1-42b4-82a8-110d3362d36f",
+    "title": "Valid Number",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "plusone": {
+    "id": "9e970e38-5126-4fbe-ad24-a2433e905713",
+    "title": "Plus One",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "textjustification": {
+    "id": "b2126060-b299-4707-9a96-83ed8c4edb8a",
+    "title": "Text Justification",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "sqrtx": {
+    "id": "8866ae03-b531-416f-b79f-f56fd12d5ada",
+    "title": "Sqrt(x)",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "simplifypath": {
+    "id": "4dd4bc27-105d-42fd-a44b-aaa29a5a754c",
+    "title": "Simplify Path",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "searcha2dmatrix": {
+    "id": "f50aa2ce-ab5b-47f7-b7f2-9838fc23c815",
+    "title": "Search a 2D Matrix",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "sortcolors": {
+    "id": "2a323787-2117-48fc-a9ec-879540156142",
+    "title": "Sort Colors",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "combinations": {
+    "id": "63c24ff6-1826-403b-b11e-a7dfa2a934a0",
+    "title": "Combinations",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "subsets": {
+    "id": "0edb84d1-f1bf-446c-a944-db3321ec04ff",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "removeduplicatesfromsortedlistii": {
+    "id": "8be4ba10-7541-4c66-a48b-cae3712bc68b",
+    "title": "Remove Duplicates from Sorted List II",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "removeduplicatesfromsortedlist": {
+    "id": "a7984373-b81b-4d45-abda-d34275545190",
+    "title": "Remove Duplicates from Sorted List",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "largestrectangleinhistogram": {
+    "id": "d3310bdd-b40e-49ac-83d4-44bb9a4e8cd3",
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "maximalrectangle": {
+    "id": "7a184de1-b3db-4918-acd7-a5c835d453e4",
+    "title": "Maximal Rectangle",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "partitionlist": {
+    "id": "187d43be-8e9f-4a27-9b51-5541b0829de3",
+    "title": "Partition List",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "scramblestring": {
+    "id": "7d5b395d-03dd-4f3e-894b-eb189cda83a2",
+    "title": "Scramble String",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "mergesortedarray": {
+    "id": "cf7516f7-9bd6-40b5-aa8c-8c08ff6e743f",
+    "title": "Merge Sorted Array",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "graycode": {
+    "id": "558137bc-de98-43c6-bfe6-5249091ab872",
+    "title": "Gray Code",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "decodeways": {
+    "id": "b31c6afc-6e7f-4b59-8777-022f267fa8a5",
+    "title": "Decode Ways",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reverselinkedlistii": {
+    "id": "bed34ce2-a894-4abd-b13a-54376dd92bce",
+    "title": "Reverse Linked List II",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Linked List"
+    ]
+  },
+  "restoreipaddresses": {
+    "id": "13bc08ba-f3cd-4d06-a591-42b1a8c20c92",
+    "title": "Restore IP Addresses",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "binarytreeinordertraversal": {
+    "id": "a5eaace9-851c-42c1-bb51-c2675771aa1b",
+    "title": "Binary Tree Inorder Traversal",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "uniquebinarysearchtreesii": {
+    "id": "0e9f83cb-c971-4dc8-9b72-e11de4682d2d",
+    "title": "Unique Binary Search Trees II",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "uniquebinarysearchtrees": {
+    "id": "a32539cc-95b2-47dc-b0b5-ec565507fd11",
+    "title": "Unique Binary Search Trees",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "interleavingstring": {
+    "id": "ce19316c-bd21-4ced-8b45-8b1c39c1e06b",
+    "title": "Interleaving String",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "validatebinarysearchtree": {
+    "id": "7121c98b-7250-4e14-8f1a-f22d486a296d",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "recoverbinarysearchtree": {
+    "id": "4add562d-2d78-48ad-a824-15781ced0e22",
+    "title": "Recover Binary Search Tree",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "sametree": {
+    "id": "ffd234fe-4f1a-4c3f-a60c-90e2b6ae4b0c",
+    "title": "Same Tree",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "symmetrictree": {
+    "id": "a0f08472-035a-41ea-bc3b-f7cace224a7e",
+    "title": "Symmetric Tree",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "binarytreelevelordertraversal": {
+    "id": "02f1217e-4a20-474c-8d76-452bc00ea48d",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "palindromepartitioningii": {
+    "id": "709d9c9e-5a80-4dc2-a75f-c42abb0e17ac",
+    "title": "Palindrome partitioning II",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Dynamic Programming"
+    ]
+  },
+  "reverseinteger2": {
+    "id": "89ba7582-b839-4455-acec-4a5fc2bb5649",
+    "title": "Reverse Integer 2",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Math"
+    ]
+  },
+  "dividetwointegers2": {
+    "id": "b2533c93-41b0-4a73-b0f6-13d1d3a132b9",
+    "title": "Divide Two Integers 2",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "firstmissingpositive2": {
+    "id": "4809f5ac-2219-4ec8-b13b-665f77762ebf",
+    "title": "First Missing Positive 2",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "jumpgameii2": {
+    "id": "11021e3f-c60b-49f8-983a-dee4eb5e6b16",
+    "title": "Jump Game II 2",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "permutationsii2": {
+    "id": "4954c473-537a-4efb-9a7b-f1616a059356",
+    "title": "Permutations II 2",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "nqueensii2": {
+    "id": "b1fa464d-bd42-42c2-bde4-355799a08d04",
+    "title": "N-Queens II 2",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "spiralmatrixii2": {
+    "id": "8c8978cc-5f1c-467a-a66f-1f5a2d20ef05",
+    "title": "Spiral Matrix II 2",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "uniquepathsii2": {
+    "id": "d5449d38-ba18-4260-be99-bc780719d9c4",
+    "title": "Unique Paths II 2",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "removeduplicatesfromsortedlistii2": {
+    "id": "72a00f5f-3b4c-4225-9ecd-d97f6e6bd948",
+    "title": "Remove Duplicates from Sorted List II 2",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "subsetsii2": {
+    "id": "351e5ac1-b83c-4254-821c-ff266d219883",
+    "title": "Subsets II 2",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reverselinkedlistii2": {
+    "id": "cdc637a2-2708-4529-b439-98e1fb2f8b63",
+    "title": "Reverse Linked List II 2",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Linked List"
+    ]
+  },
+  "uniquebinarysearchtreesii2": {
+    "id": "0cee6b48-6f8a-4086-ac22-fa7ca27237d6",
+    "title": "Unique Binary Search Trees II 2",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "validatebinarysearchtree2": {
+    "id": "f843be33-14be-4ab5-a4ab-93062fc8f1af",
+    "title": "Validate Binary Search Tree 2",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "sametree2": {
+    "id": "c228b656-7c7f-4656-a2ff-33fa0cb177be",
+    "title": "Same Tree 2",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reverseinteger3": {
+    "id": "85bbaeb5-7d15-4049-baa6-813ec9eeaf65",
+    "title": "Reverse Integer 3",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "dividetwointegers3": {
+    "id": "8ce3e260-27a5-48ef-9207-308d3fecdafa",
+    "title": "Divide Two Integers 3",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "firstmissingpositive3": {
+    "id": "7dad61c4-9a88-4088-af6d-99960f55ac18",
+    "title": "First Missing Positive 3",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "jumpgameii3": {
+    "id": "97470d78-f06f-4cab-b40a-0ffc2f353421",
+    "title": "Jump Game II 3",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "permutationsii3": {
+    "id": "0ec66da1-c311-4e73-9f2b-dddb739ce29c",
+    "title": "Permutations II 3",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "nqueensii3": {
+    "id": "8bb94641-e63a-4e4e-9113-8bd89e8760ff",
+    "title": "N-Queens II 3",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "spiralmatrixii3": {
+    "id": "5c2d09f8-4f35-47ea-b2e7-b991eb329d2b",
+    "title": "Spiral Matrix II 3",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "uniquepathsii3": {
+    "id": "1822eb85-ad13-423e-be9b-21dddd5784c7",
+    "title": "Unique Paths II 3",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "removeduplicatesfromsortedlistii3": {
+    "id": "b9683cb4-03ce-4f9f-9e10-bf1f52f7fe22",
+    "title": "Remove Duplicates from Sorted List II 3",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "subsetsii3": {
+    "id": "6a8d26d1-817c-4612-931f-5de950d52200",
+    "title": "Subsets II 3",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reverselinkedlistii3": {
+    "id": "2c4388ca-2ad2-440e-afa6-c2d2c179632b",
+    "title": "Reverse Linked List II 3",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Linked List"
+    ]
+  },
+  "uniquebinarysearchtreesii3": {
+    "id": "575aef39-90b9-4dba-958f-def1de157368",
+    "title": "Unique Binary Search Trees II 3",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "validatebinarysearchtree3": {
+    "id": "dfb041c7-b0e7-475c-b9cd-d630e91a9bbb",
+    "title": "Validate Binary Search Tree 3",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "sametree3": {
+    "id": "2b3c2f98-1ca6-41fe-8a94-eab2ae35bac3",
+    "title": "Same Tree 3",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reverseinteger4": {
+    "id": "44daffcc-bedc-4bf9-95b5-6bf70ce4a909",
+    "title": "Reverse Integer 4",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Math"
+    ]
+  },
+  "dividetwointegers4": {
+    "id": "09e5dfcc-6900-44eb-95a9-84ec948108b7",
+    "title": "Divide Two Integers 4",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "firstmissingpositive4": {
+    "id": "cd679875-d59e-48a2-9b74-e4a58c75852e",
+    "title": "First Missing Positive 4",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "jumpgameii4": {
+    "id": "203e3012-b994-4ea8-ab98-13840250d046",
+    "title": "Jump Game II 4",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "permutationsii4": {
+    "id": "5da6d225-a994-4ad9-98da-8a01f7fffc65",
+    "title": "Permutations II 4",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "nqueensii4": {
+    "id": "a70bb6d0-ae49-4a3e-a36a-000d11d79639",
+    "title": "N-Queens II 4",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "spiralmatrixii4": {
+    "id": "37643335-bd9e-4cfd-8b78-a06a94dce65a",
+    "title": "Spiral Matrix II 4",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "uniquepathsii4": {
+    "id": "2ddab377-f537-41b9-a865-ee36a3906714",
+    "title": "Unique Paths II 4",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "removeduplicatesfromsortedlistii4": {
+    "id": "0b226132-e56a-4f2f-9850-e04d46dd135d",
+    "title": "Remove Duplicates from Sorted List II 4",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "subsetsii4": {
+    "id": "c23932e5-de8e-4f15-a17d-f94387710e52",
+    "title": "Subsets II 4",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reverselinkedlistii4": {
+    "id": "9a297f52-1b69-41f3-a694-6a7eb6e1caef",
+    "title": "Reverse Linked List II 4",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Linked List"
+    ]
+  },
+  "uniquebinarysearchtreesii4": {
+    "id": "0b42c01f-8fee-464d-a8ba-7ee29df0f553",
+    "title": "Unique Binary Search Trees II 4",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "validatebinarysearchtree4": {
+    "id": "6e3b3868-c7a4-45b7-8fa6-d5cbd78c1e1f",
+    "title": "Validate Binary Search Tree 4",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "sametree4": {
+    "id": "b5bdccaa-ba59-4f9f-b985-240948bb6c5f",
+    "title": "Same Tree 4",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reverseinteger5": {
+    "id": "6bc659df-7dc8-4296-9909-98deb751454d",
+    "title": "Reverse Integer 5",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "dividetwointegers5": {
+    "id": "bafad393-9d8c-422b-bc53-404709544f00",
+    "title": "Divide Two Integers 5",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "firstmissingpositive5": {
+    "id": "4a6aef9b-b9e4-40a3-96f1-5503b855a097",
+    "title": "First Missing Positive 5",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "jumpgameii5": {
+    "id": "f285c31a-0b6d-4643-9591-7b9f12f2a0c8",
+    "title": "Jump Game II 5",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "permutationsii5": {
+    "id": "005c9a31-ddf1-4e8c-ba7d-2267c9bf38c3",
+    "title": "Permutations II 5",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "nqueensii5": {
+    "id": "ebc1f637-b114-4bcc-ad93-cad853e20fdd",
+    "title": "N-Queens II 5",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "spiralmatrixii5": {
+    "id": "8b3c80db-61bd-4598-ab77-7b384749a29c",
+    "title": "Spiral Matrix II 5",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "uniquepathsii5": {
+    "id": "de3e7167-c086-417b-9ad7-a8f53c297dee",
+    "title": "Unique Paths II 5",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "removeduplicatesfromsortedlistii5": {
+    "id": "9c42d144-72e5-4a5a-972c-631b2416dd2b",
+    "title": "Remove Duplicates from Sorted List II 5",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "subsetsii5": {
+    "id": "d4509e47-439f-4184-8602-74e2fa7b75e1",
+    "title": "Subsets II 5",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reverselinkedlistii5": {
+    "id": "1bb25b8e-4473-4a65-8d54-f0570fb5e8fc",
+    "title": "Reverse Linked List II 5",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Linked List"
+    ]
+  },
+  "uniquebinarysearchtreesii5": {
+    "id": "9fa86317-c690-4f31-b56b-5f3c95938973",
+    "title": "Unique Binary Search Trees II 5",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "validatebinarysearchtree5": {
+    "id": "a494f7a9-3be7-4cc8-a064-f22d91c0d673",
+    "title": "Validate Binary Search Tree 5",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "sametree5": {
+    "id": "3b72ecb1-5e77-415c-9b53-033dd8501297",
+    "title": "Same Tree 5",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reverseinteger6": {
+    "id": "3eb62c4b-8461-43d7-bbfd-e15dcc789241",
+    "title": "Reverse Integer 6",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Math"
+    ]
+  },
+  "dividetwointegers6": {
+    "id": "9bf0ca0a-769e-452f-821b-5a652475f81b",
+    "title": "Divide Two Integers 6",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "firstmissingpositive6": {
+    "id": "6e918767-c540-443b-9d32-a204df3418e3",
+    "title": "First Missing Positive 6",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "jumpgameii6": {
+    "id": "c7ed606f-3196-4994-90dc-b535a6682c04",
+    "title": "Jump Game II 6",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "permutationsii6": {
+    "id": "fa34b4cd-3126-490b-ae6a-b5f8b1f4d225",
+    "title": "Permutations II 6",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "nqueensii6": {
+    "id": "2c7ebf73-f851-492d-8bb1-7959d10e9ca5",
+    "title": "N-Queens II 6",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "spiralmatrixii6": {
+    "id": "9b9cff0c-96d6-4574-9b74-03b08790792c",
+    "title": "Spiral Matrix II 6",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "uniquepathsii6": {
+    "id": "ec465db4-b25f-4400-a176-2a6769c94bf9",
+    "title": "Unique Paths II 6",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "removeduplicatesfromsortedlistii6": {
+    "id": "952ed5e6-7ec8-49c7-b813-8bd28b6f7b06",
+    "title": "Remove Duplicates from Sorted List II 6",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "subsetsii6": {
+    "id": "bd4f116f-af21-45c6-89c1-182fca8b3aa0",
+    "title": "Subsets II 6",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reverselinkedlistii6": {
+    "id": "29a8be5c-551b-4e75-9c6d-570bcb140b66",
+    "title": "Reverse Linked List II 6",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Linked List"
+    ]
+  },
+  "uniquebinarysearchtreesii6": {
+    "id": "806f826b-542f-4d4a-b952-8765934ae452",
+    "title": "Unique Binary Search Trees II 6",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "validatebinarysearchtree6": {
+    "id": "0d6ff6df-0700-48cf-a023-c7a61599bc5c",
+    "title": "Validate Binary Search Tree 6",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "sametree6": {
+    "id": "8fbca969-b438-4afa-8fa5-31e92dd0fb1e",
+    "title": "Same Tree 6",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reverseinteger7": {
+    "id": "40b8a81b-c778-49fe-b843-3f27daf4fc02",
+    "title": "Reverse Integer 7",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "dividetwointegers7": {
+    "id": "c32fb6c1-877c-43c0-b2bc-ba1a8891078e",
+    "title": "Divide Two Integers 7",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "firstmissingpositive7": {
+    "id": "c5357da4-9584-4db8-b765-07de138d49e1",
+    "title": "First Missing Positive 7",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "jumpgameii7": {
+    "id": "64564b64-530a-4ead-9ef4-c8841e122b98",
+    "title": "Jump Game II 7",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "permutationsii7": {
+    "id": "6171088f-00dc-442a-a127-2e0c3b15ed19",
+    "title": "Permutations II 7",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "nqueensii7": {
+    "id": "3a0f032e-d853-46b1-98d0-fdb6671fbdcb",
+    "title": "N-Queens II 7",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "spiralmatrixii7": {
+    "id": "f2f6cd55-1ad9-4173-91eb-23b087a0dd88",
+    "title": "Spiral Matrix II 7",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "uniquepathsii7": {
+    "id": "e3a20eb2-e852-4513-ae1e-f47c3629c087",
+    "title": "Unique Paths II 7",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "removeduplicatesfromsortedlistii7": {
+    "id": "d088408e-6b15-4030-8d97-03b0056338ae",
+    "title": "Remove Duplicates from Sorted List II 7",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "subsetsii7": {
+    "id": "dff5e4ee-a12d-4632-99ee-7ab44daa76e6",
+    "title": "Subsets II 7",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reverselinkedlistii7": {
+    "id": "bcb53c81-2d28-453f-b2ce-5d2a0fd624cf",
+    "title": "Reverse Linked List II 7",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Linked List"
+    ]
+  },
+  "uniquebinarysearchtreesii7": {
+    "id": "89b1a9b4-6c29-402e-9dc8-f5ef8dd9683c",
+    "title": "Unique Binary Search Trees II 7",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "validatebinarysearchtree7": {
+    "id": "1f00aa72-caee-4a42-b8e2-bc6678ac30d0",
+    "title": "Validate Binary Search Tree 7",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "sametree7": {
+    "id": "c801ea9a-0df3-46c9-bd9c-09418bb4ab16",
+    "title": "Same Tree 7",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reverseinteger8": {
+    "id": "8d23697a-0fa5-49e5-bd6e-4f5b02443548",
+    "title": "Reverse Integer 8",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Math"
+    ]
+  },
+  "dividetwointegers8": {
+    "id": "4a094a6c-d265-443a-8631-8521ddfecb4d",
+    "title": "Divide Two Integers 8",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "firstmissingpositive8": {
+    "id": "b42f59c6-32df-4811-84a8-2110aa2fb30d",
+    "title": "First Missing Positive 8",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "jumpgameii8": {
+    "id": "3de59484-775b-41e5-9ff6-766bb60bf707",
+    "title": "Jump Game II 8",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "permutationsii8": {
+    "id": "0cac71c3-99c1-4be7-961e-70327dfda02d",
+    "title": "Permutations II 8",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "nqueensii8": {
+    "id": "702324d6-e77f-4e3c-b708-f50d978180ea",
+    "title": "N-Queens II 8",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "spiralmatrixii8": {
+    "id": "9448cb00-a1bb-42b4-8041-ce1897251adc",
+    "title": "Spiral Matrix II 8",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "uniquepathsii8": {
+    "id": "0559f921-1ab1-4b85-b695-bcbba1a46a85",
+    "title": "Unique Paths II 8",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "removeduplicatesfromsortedlistii8": {
+    "id": "34517eba-a887-4bad-9839-65559fa1de91",
+    "title": "Remove Duplicates from Sorted List II 8",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "subsetsii8": {
+    "id": "58decfff-72f8-438c-8ffe-98e01a924589",
+    "title": "Subsets II 8",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reverselinkedlistii8": {
+    "id": "acefb1de-dd5a-4d27-9ae4-f0d332a76936",
+    "title": "Reverse Linked List II 8",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Linked List"
+    ]
+  },
+  "uniquebinarysearchtreesii8": {
+    "id": "b79d10e1-7b55-440b-b9d2-7bb3b481c0a7",
+    "title": "Unique Binary Search Trees II 8",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "validatebinarysearchtree8": {
+    "id": "06c76252-97e9-4279-a022-18a5b03def07",
+    "title": "Validate Binary Search Tree 8",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "sametree8": {
+    "id": "ff6bfc7f-909f-481c-bf4f-3d95e5caf0b9",
+    "title": "Same Tree 8",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reverseinteger9": {
+    "id": "6c2c771e-a919-4687-8486-68ec9c2211e6",
+    "title": "Reverse Integer 9",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Math"
+    ]
+  },
+  "dividetwointegers9": {
+    "id": "e09655b0-b3d4-452f-8c0e-91fc7b6459a5",
+    "title": "Divide Two Integers 9",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "firstmissingpositive9": {
+    "id": "f07878fd-f0f6-4b9f-af94-e9487f11ec6a",
+    "title": "First Missing Positive 9",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "jumpgameii9": {
+    "id": "302f877d-0efa-4440-b972-5bb141f2fe6f",
+    "title": "Jump Game II 9",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "permutationsii9": {
+    "id": "d2202489-1de9-4d70-a26f-88686bfd5b37",
+    "title": "Permutations II 9",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "nqueensii9": {
+    "id": "1ff758ea-7f2a-430b-82e0-394412476765",
+    "title": "N-Queens II 9",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "spiralmatrixii9": {
+    "id": "c5d06541-25d1-420d-99d6-d4309fbf936c",
+    "title": "Spiral Matrix II 9",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "uniquepathsii9": {
+    "id": "e41681cb-0cba-41f8-b494-890850f609e6",
+    "title": "Unique Paths II 9",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "removeduplicatesfromsortedlistii9": {
+    "id": "f25793f8-e168-4f61-8e8a-425345a81ac7",
+    "title": "Remove Duplicates from Sorted List II 9",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "subsetsii9": {
+    "id": "a1b18322-0c5f-4008-a91d-868b6eeecdc1",
+    "title": "Subsets II 9",
+    "difficulty": "MEDIUM",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reverselinkedlistii9": {
+    "id": "fcd380b8-1659-40d6-8bad-2b76e385b9f8",
+    "title": "Reverse Linked List II 9",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Linked List"
+    ]
+  },
+  "uniquebinarysearchtreesii9": {
+    "id": "2f69032e-f5c5-4a16-9ba8-29f8f8160b3e",
+    "title": "Unique Binary Search Trees II 9",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "validatebinarysearchtree9": {
+    "id": "af695078-3371-408f-bf90-18670ea638f0",
+    "title": "Validate Binary Search Tree 9",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays",
+      "Sorting"
+    ]
+  },
+  "sametree9": {
+    "id": "cea95b29-43e5-459a-8a6f-2e38aeca4c0a",
+    "title": "Same Tree 9",
+    "difficulty": "HARD",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "reverseinteger10": {
+    "id": "e4250197-b1de-49a5-b714-601e3f416475",
+    "title": "Reverse Integer 10",
+    "difficulty": "HARD",
+    "category": "Java",
+    "topics": [
+      "Math"
+    ]
+  },
+  "dividetwointegers10": {
+    "id": "30852c01-76a0-4fa7-a35c-4180e1243525",
+    "title": "Divide Two Integers 10",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Arrays"
+    ]
+  },
+  "primenumbercheck": {
+    "id": "ef5b3be7-4778-4536-aedc-82c39f9983aa",
+    "title": "Prime Number Check",
+    "difficulty": "EASY",
+    "category": "Java",
+    "topics": [
+      "Math"
+    ]
+  },
+  "checkforanagrams": {
+    "id": "8c7fc953-6371-4439-91d6-8e1f013621e6",
+    "title": "Check for Anagrams",
+    "difficulty": "MEDIUM",
+    "category": "Java",
+    "topics": [
+      "Strings",
+      "Hashing"
+    ]
+  },
+  "checkifstringispalindromeornot": {
+    "id": "6799ffe1-fcc0-4a4a-ab67-6919408fb47b",
+    "title": "Check if String is Palindrome or Not",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Recursion",
+      "Control Flow"
+    ]
+  },
+  "largestelement": {
+    "id": "5ff9c92c-a6e6-4f14-b97e-6f3109028e9c",
+    "title": "Largest Element",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": []
+  },
+  "lowerbound": {
+    "id": "446f2106-3926-498a-8592-4e0f129ab78c",
+    "title": "Lower Bound",
+    "difficulty": "EASY",
+    "category": "DSA",
+    "topics": [
+      "Arrays"
+    ]
+  }
+}

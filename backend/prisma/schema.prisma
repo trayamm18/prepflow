@@ -1,0 +1,186 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+enum ProblemDifficulty {
+  EASY
+  MEDIUM
+  HARD
+}
+
+enum MCQDifficulty {
+  EASY
+  MEDIUM
+  HARD
+}
+
+enum SubmissionStatus {
+  SOLVED
+  FAILED
+}
+
+model User {
+  id            String            @id @default(uuid())
+  username      String            @unique
+  name          String
+  email         String            @unique
+  passwordHash  String
+  createdAt     DateTime          @default(now())
+  updatedAt     DateTime          @updatedAt
+  
+  // Stats & Streaks
+  currentStreak Int               @default(0)
+  longestStreak Int               @default(0)
+  lastActivity  DateTime?
+  solvedEasy    Int               @default(0)
+  solvedMedium  Int               @default(0)
+  solvedHard    Int               @default(0)
+
+  // Relations
+  submissions   Submission[]
+  notes         Note[]
+  mockAttempts  MockAttempt[]
+  settings      UserSettings?
+  progress      ProblemProgress[]
+  refreshTokens RefreshToken[]
+}
+
+model UserSettings {
+  id                String  @id @default(uuid())
+  userId            String  @unique
+  darkMode          Boolean @default(true)
+  preferredLanguage String  @default("Java")
+
+  user              User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model RefreshToken {
+  id        String   @id @default(uuid())
+  token     String   @unique
+  userId    String
+  expiresAt DateTime
+
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model Admin {
+  id           String @id @default(uuid())
+  email        String @unique
+  passwordHash String
+}
+
+model Problem {
+  id               String            @id @default(uuid())
+  title            String            @unique
+  slug             String            @unique
+  category         String            // 'Java' or 'DSA'
+  difficulty       ProblemDifficulty
+  problemStatement String
+  sampleInput      String
+  sampleOutput     String
+  hint1            String?
+  hint2            String?
+  codeTemplate     String            // Method stub
+  isStriverSheet   Boolean           @default(false)
+  striverStep      String?           // e.g. "Step 1: Learn the basics"
+  striverTopic     String?           // e.g. "Pattern Printing"
+
+  // Relations
+  topics           Topic[]           // Many-to-many
+  companies        Company[]         // Many-to-many
+  submissions      Submission[]
+  notes            Note[]
+  progress         ProblemProgress[]
+}
+
+model Topic {
+  id       String    @id @default(uuid())
+  name     String    @unique
+  problems Problem[] // Implicit many-to-many relation
+}
+
+model Company {
+  id       String    @id @default(uuid())
+  name     String    @unique
+  problems Problem[] // Implicit many-to-many relation
+}
+
+model ProblemProgress {
+  id        String    @id @default(uuid())
+  userId    String
+  problemId String
+  solved    Boolean   @default(false)
+  solvedAt  DateTime?
+
+  user      User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  problem   Problem   @relation(fields: [problemId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, problemId])
+  @@index([userId])
+  @@index([problemId])
+}
+
+model Submission {
+  id                 String           @id @default(uuid())
+  userId             String
+  problemId          String
+  code               String
+  language           String           // e.g., 'Java', 'C++', 'Python', 'JavaScript'
+  status             SubmissionStatus
+  timeTakenSeconds   Int
+  attemptedAt        DateTime         @default(now())
+
+  user               User             @relation(fields: [userId], references: [id], onDelete: Cascade)
+  problem            Problem          @relation(fields: [problemId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([problemId])
+}
+
+model Note {
+  id           String   @id @default(uuid())
+  userId       String
+  problemId    String
+  markdownText String
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  problem      Problem  @relation(fields: [problemId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, problemId])
+  @@index([userId])
+}
+
+model MockAttempt {
+  id                String        @id @default(uuid())
+  userId            String
+  category          String        // e.g., 'DBMS', 'OS', 'Java'
+  difficulty        MCQDifficulty // Enum instead of String
+  score             Int
+  totalQuestions    Int
+  timeTakenSeconds  Int
+  attemptedAt       DateTime      @default(now())
+
+  user              User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+}
+
+model MCQQuestion {
+  id            String        @id @default(uuid())
+  category      String
+  difficulty    MCQDifficulty
+  text          String
+  optionA       String
+  optionB       String
+  optionC       String
+  optionD       String
+  correctOption String        // 'A', 'B', 'C', 'D'
+  explanation   String?
+}
